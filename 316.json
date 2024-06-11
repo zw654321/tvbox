@@ -79,7 +79,7 @@
       "changeable": 1,
       "ext": "./json/douban.json"
     },
-    {"key": "Iktv","name": "KTV | 唱歌","type": 3,"api": "csp_WexIktv","searchable": 1,"changeable": 0,"jar": "./wex.txt"},
+    {"key": "Iktv","name": "KTV | 唱歌","type": 3,"api": "csp_WexIktv","searchable": 1,"changeable": 0,"jar": "./jar/wex.txt"},
     {
       "key": "暴風",
       "name": "暴風 | 资源",
