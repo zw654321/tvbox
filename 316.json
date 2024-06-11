@@ -4,7 +4,7 @@
   "sites": [
         {
       "key": "泥巴",
-      "name": "泥巴",
+      "name": "泥巴 | 影视",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "星星",
-      "name": "星星",
+      "name": "星星 | 影视",
       "type": 3,
       "api": "csp_Star",
       "searchable": 1,
@@ -21,25 +21,16 @@
     
     {
       "key": "賤賤",
-      "name": "賤賤",
+      "name": "賤賤 | 影视",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./lib/jianpian.json"
-    },
-    {
-      "key": "獨播",
-      "name": "獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/duboku.json"
+      "ext": "./json/jianpian.json"
     },
     {
       "key": "haiwaikan",
-      "name": "海外看",
+      "name": "海外看 | 影视",
       "type": 1,
       "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
@@ -86,12 +77,12 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "ext": "./lib/douban.json"
+      "ext": "./json/douban.json"
     },
     
     {
       "key": "暴風",
-      "name": "暴風",
+      "name": "暴風 | 资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -99,7 +90,7 @@
     },
     {
       "key": "索尼",
-      "name": "索尼 ",
+      "name": "索尼 | 资源 ",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -108,7 +99,7 @@
     
     {
       "key": "櫻花",
-      "name": "櫻花",
+      "name": "櫻花 | 动漫",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
@@ -116,7 +107,7 @@
     },
     {
       "key": "巴士",
-      "name": "巴士",
+      "name": "巴士 | 动漫",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -124,7 +115,7 @@
     },
     {
       "key": "異界",
-      "name": "異界",
+      "name": "異界 | 动漫",
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
