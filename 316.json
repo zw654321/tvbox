@@ -21,7 +21,7 @@
     
     {
       "key": "賤賤",
-      "name": "賤賤 | 影视",
+      "name": "荐片 | 影视",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -80,22 +80,8 @@
       "ext": "./json/douban.json"
     },
     {"key": "Iktv","name": "KTV | 唱歌","type": 3,"api": "csp_WexIktv","searchable": 1,"changeable": 0,"jar": "./jar/wex.txt"},
-    {
-      "key": "暴風",
-      "name": "暴風 | 资源",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "索尼",
-      "name": "索尼 | 资源 ",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
+    //{"key": "暴風","name": "暴風 | 资源","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1},
+    //{"key": "索尼","name": "索尼 | 资源 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod","searchable": 1,"changeable": 1},
     
     //{"key": "櫻花", "name": "櫻花 | 动漫", "type": 3, "api": "csp_Ying", "searchable": 1, "changeable": 1},
     {
