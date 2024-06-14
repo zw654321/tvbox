@@ -80,6 +80,7 @@
       "style": {
         "type": "list"
       }
+      "jar": "./jar/wex.txt"
     },
 
     {
