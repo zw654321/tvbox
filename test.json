@@ -70,6 +70,18 @@
         "经典片"
       ]
     },
+{
+      "key": "看球",
+      "name": "🌐88┃看球┃体育",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+
     {
       "key": "豆瓣",
       "name": "豆瓣 | 推荐",
