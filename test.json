@@ -72,7 +72,7 @@
     },
 {
       "key": "看球",
-      "name": "🌐88┃看球┃体育",
+      "name": "看球",
       "type": 3,
       "api": "csp_Kanqiu",
       "searchable": 1,
@@ -80,7 +80,6 @@
       "style": {
         "type": "list"
       }
-      "jar": "./jar/wex.txt"
     },
 
     {
