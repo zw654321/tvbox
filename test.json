@@ -1,6 +1,6 @@
 {
   "spider": "./jar/custom_spider.jar;md5;528c76fdf519c0411b619b75032eacb7",
-  //"lives": "name":"live","type":0,"url":"http://epg.doube.eu.org/MyTvSuper.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+  "lives": "type":0,"url":"http://fai-mang.net/xsj1.txt","playerType":1,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
   "wallpaper": "https://img.freepik.com/free-photo/deep-blue-plain-concrete-textured-background_53876-103890.jpg",
   "sites": [
         {
