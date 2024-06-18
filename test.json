@@ -1,6 +1,6 @@
 {
   "spider": "./jar/custom_spider.jar;md5;528c76fdf519c0411b619b75032eacb7",
-  "lives": [ { "name": "tvlive", "type": 0, "url": "http://fai-mang.net/xsj1.txt", "playerType": 2 }, { "name": "嗅探", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0", "type": 0, "url": "https://xhdwc.tk/xiutan.m3u" } ],  
+  "lives": [ { "name": "tvlive", "type": 0, "url": "http://fai-mang.net/xsj1.txt", "playerType": 2 }, { "name": "嗅探", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0", "type": 0, "url": "http://fai-mang.net/xsj1.m3u" } ],  
   "logo": "https://fai-mang.net/wp-content/uploads/2024/05/logoico.png",
   "wallpaper": "https://img.freepik.com/free-photo/deep-blue-plain-concrete-textured-background_53876-103890.jpg",
   "sites": [
