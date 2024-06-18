@@ -301,9 +301,8 @@
   "ads": [
     "static-mozai.4gtv.tv",
     "s3t3d2y8.afcdn.net"
-  ]
-},
-"lives": [
+  ],
+  "lives": [
     {
       "name": "live",
       "type": 0,
@@ -311,3 +310,5 @@
       "url": "http://fai-mang.net/xsj1.txt",
     }
   ]
+
+}
