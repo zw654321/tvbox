@@ -7,7 +7,7 @@
 以/开头，存储卡的根目录
 
 #MALAYSIA
-../mylist.m3u
+https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjmQzlooA5VQ0LCn-yOlhmQ
 #初秋语•综合
 ../list.txt
 #YanG•综合
