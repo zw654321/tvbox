@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="CCTV",CCTV1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+#EXTINF:-1 group-title="MALAYSIA",MYFM
+https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjmQzlooA5VQ0LCn-yOlhmQ
 #EXTINF:-1 group-title="CCTV",CCTV2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV2
