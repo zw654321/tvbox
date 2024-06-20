@@ -83,7 +83,7 @@
         "type": "list"
       }
     },
-  {"key":"lf_js_lf_live","name":"电台 | 直播","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":0,"changeable":0,"quickSearch":0,"filterable":1,"ext":"./js/lf_live.txt","jar": "./jar／pg.jar"},
+  {"key":"lf_js_lf_live","name":"电台 | 直播","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":0,"changeable":0,"quickSearch":0,"filterable":1,"ext":"./js/lf_live.txt"},
     {
       "key": "豆瓣",
       "name": "豆瓣 | 推荐",
