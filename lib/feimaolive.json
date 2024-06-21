@@ -1,5 +1,5 @@
 [
-{"name":"电台 | 海外","url":"https://live.fanmingming.com/tv/m3u/global.m3u"},
+{"name":"电台 | 海外","url":"https://raw.githubusercontent.com/shawn82/tvbox/master/radio.m3u"},
 {"name":"FM | MY","url":"https://raw.githubusercontent.com/shawn82/tvbox/master/mylist.m3u"},
 {"name":"电台 | MY","url":"https://raw.githubusercontent.com/shawn82/tvbox/master/mylist.txt"}
 ]
