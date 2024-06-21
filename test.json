@@ -76,8 +76,8 @@
             "key": "剧圈圈",
             "name": "剧圈圈",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/剧圈圈.js"
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/剧圈圈.js"
         },
 
     {
