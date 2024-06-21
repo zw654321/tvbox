@@ -72,6 +72,17 @@
       ]
     },
     {
+      "key": "看球",
+      "name": "看球 | 直播",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "豆瓣",
       "name": "豆瓣 | 推荐",
       "type": 3,
