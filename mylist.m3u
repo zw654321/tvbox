@@ -1,8 +1,5 @@
 #EXTM3U
-//#EXTINF:-1 group-title="MYFM,#genre#",MYFM
-//https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8
-
-#EXTINF:-1 tvg-url="" tvg-id="MYFM" group-title="MYFM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/myfm.png",MYFM
+#EXTINF:-1 group-title="MYFM,#genre#",MYFM
 https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8
 
 #EXTINF:-1 group-title="MELODY,#genre#",Melody
