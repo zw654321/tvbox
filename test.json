@@ -12,6 +12,16 @@
       "searchable": 1,
       "changeable": 1
     },
+      {
+      "key": "Wexjiohub",
+      "name": "啾啾┃影视",
+      "type": 3,
+      "api": "csp_Wexjiohub",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "./jar/wex.txt"
+    },
+
         {
       "key": "meowtv_wfys",
       "name": "网飞 | 影视",
