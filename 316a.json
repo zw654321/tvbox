@@ -10,7 +10,7 @@
 {"key":"MissAV","name":"MissAV","type":3,"api":"csp_Miss","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.78}，"jar":"./jar/custom_spider.jar"},
 {"key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68}},
 {"key":"csp_Netflav","name":"Netflav","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
-{"key":"Taohuazu","name":"桃花族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://thze.cc/","ext":"http://127.0.0.1:9978/file/TV/token.json"},
+{"key":"Taohuazu","name":"桃花族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://thze.cc/","ext":"http://127.0.0.1:9978/file/TV/token.json","jar":"https://raw.githubusercontent.com/shawn82/PG18/master/pg.jar"},
 {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
 {"key":"Cable","name":"CableAV","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
 {"key":"Top888","name": "Top888","type": 3,"api": "csp_Top888","searchable": 1,"changeable": 0},
