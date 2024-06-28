@@ -57,30 +57,7 @@
         "经典片"
       ]
     },
-       {
-            "key": "Youtube",
-            "name": "Youtube",
-            "type": 3,
-            "api": "csp_Youtube",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "timeout": 60,
-            "ext": {
-                "token": "https://raw.githubusercontent.com/shawn82/PG18/main/lib/tokenm.json",
-                "json": "https://raw.githubusercontent.com/shawn82/PG18/main/lib/youtube.json",
-                "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-                "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-                "codecs": "",
-                "proxy": "noproxy"
-            },
-            "jar": "https://raw.githubusercontent.com/shawn82/PG18/main/pg.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            }
-        },
-    { "key": "看球", "name": "看球 | 直播", "type": 3, "api": "csp_Kanqiu", "searchable": 1, "changeable": 0, "style": { "type": "list" } },    
+    { "key": "Youtube", "name": "Youtube", "type": 3, "api": "csp_Youtube", "searchable": 1, "quickSearch": 0, "changeable": 0, "timeout": 60, "ext": { "token": "https://raw.githubusercontent.com/shawn82/PG18/main/lib/tokenm.json", "json": "https://raw.githubusercontent.com/shawn82/PG18/main/lib/youtube.json", "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary", "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐", "codecs": "", "proxy": "noproxy" }, "jar":"https://raw.githubusercontent.com/shawn82/PG18/main/pg.jar" "style": { "type": "rect", "ratio": 1.77 } },    { "key": "看球", "name": "看球 | 直播", "type": 3, "api": "csp_Kanqiu", "searchable": 1, "changeable": 0, "style": { "type": "list" } },    
     { "key": "豆瓣", "name": "豆瓣 | 推荐", "type": 3, "api": "csp_Douban", "searchable": 0, "changeable": 1, "ext": "./json/douban.json" },
     { "key":"直播转点播", "name": "电台 ┃ 直播", "type":3, "searchable":0, "api": "./lib/live2vod.js", "ext":"./lib/feimaolive.json"},
     { "key": "Iktv","name": "KTV | 唱歌","type": 3,"api": "csp_WexIktv","searchable": 1,"changeable": 0,"jar": "./jar/wex.txt"},
