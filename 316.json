@@ -9,6 +9,7 @@
   
   //{ "key": "4K影视", "name": "蓝光 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "ua": "okhttp/3.15", "filterable": 1, "ext": "./lib/4K影视.json", "jar": "./jar/XBPQ.jar" },
   //{ "key": "影视", "name": "影视 | 影视", "type":3, "api": "csp_YingShi", "searchable": 1, "changeable": 1, "jar": "./jar/pg.jar"},
+  { "key": "Ikanbot", "name": "爱看", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$noproxy", "jar": "./jar/pg.jar"},
   { "key": "圣城1080", "name": "圣城 | 影视","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/圣城1080.json", "jar": "./jar/XBPQ.jar"},
   { "key": "NanGua", "name": "南瓜 | 影视", "type":3, "api":"csp_NanGua", "searchable":1, "changeable":1, "ext":"null$$$1", "jar": "./jar/pg.jar"},
   { "key": "Wexjiohub", "name": "啾啾┃影视", "type": 3, "api": "csp_Wexjiohub", "searchable": 1, "changeable": 1, "jar": "./jar/wex.txt" },
