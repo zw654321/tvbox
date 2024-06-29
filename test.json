@@ -4,7 +4,8 @@
   "logo": "https://fai-mang.net/wp-content/uploads/2024/05/logoico.png",
   "wallpaper": "http://fai-mang.net/image.php",
   "sites": [
-  { "key": "Ikanbot", "name": "爱看", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$noproxy", "jar": "./jar/pg.jar"},
+  { "key": "Ikanbot", "name": "爱看 | 影视", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$noproxy", "jar": "./jar/pg.jar"},
+  {"key": "rarbt","name": "rarbt | 影视","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext":"./XBPQ/rarbt.json" ,"jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
   { "key": "泥巴", "name": "泥巴 | 影视", "type": 3, "api": "csp_NiNi", "searchable": 1, "changeable": 1 },
   { "key": "Wexjiohub", "name": "啾啾┃影视", "type": 3, "api": "csp_Wexjiohub", "searchable": 1, "changeable": 1, "jar": "./jar/wex.txt" },
   { "key": "meowtv_wfys", "name": "网飞 | 影视", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/网飞影视.js" },
