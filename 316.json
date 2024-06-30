@@ -11,7 +11,7 @@
   //{ "key": "影视", "name": "影视 | 影视", "type":3, "api": "csp_YingShi", "searchable": 1, "changeable": 1, "jar": "./jar/pg.jar"},
   { "key": "豆瓣", "name": "豆瓣 | 推荐", "type": 3, "api": "csp_Douban", "searchable": 0, "changeable": 1, "ext": "./json/douban.json" },
   { "key": "黑木耳", "name": "神速 | 影视", "type": 1, "api": "https://json.heimuer.xyz/api.php/provide/vod/", "searchable": 1, "changeable": 1, "categories": ["国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片","日本动漫","国产动漫","欧美动漫","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺"]},
-  { "key": "短剧", "name": "短剧 | 影视", "type": 0, "api": "https://xml.heimuer.xyz/api.php/provide/vod/at/xml/", "searchable": 1, "changeable": 1, "categories": ["古装短剧","虐恋短剧","逆袭短剧","悬疑短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","萌宝短剧","其它短剧"]},
+  { "key": "短剧", "name": "短剧 | 影视", "type": 1, "api": "https://json.heimuer.xyz/api.php/provide/vod/", "searchable": 1, "changeable": 1, "categories": ["虐恋短剧","古装短剧","逆袭短剧","悬疑短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","萌宝短剧","其它短剧"]},
   { "key": "Ikanbot", "name": "爱看 | 影视", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$noproxy", "jar": "./jar/pg.jar"},
   { "key": "可可", "name": "可可┃影视", "type":3, "api":"csp_Kekys", "timeout":15, "playerType":2, "searchable":1, "quickSearch":1,"changeable":1, "jar": "./jar/fan.txt"},
   { "key": "圣城1080", "name": "圣城 | 影视","type": 3,"api": "csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/圣城1080.json", "jar": "./jar/XBPQ.jar"},
