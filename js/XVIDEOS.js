@@ -1,6 +1,6 @@
 var rule = {
 	title:'XVIDEOS',
-	host:'https://www.xv-ru.com',
+	host:'https://www.xvideos.com/',
     url:'/lang/fyclass/fypage',
     searchUrl:'/?k=**',
     searchable:1,
