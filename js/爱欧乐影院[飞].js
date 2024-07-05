@@ -17,9 +17,9 @@ var rule = {
   double: true,
   一级: 'ul.vodlist li;a&&title;a&&data-original;.pic_text&&Text;a&&href',
   二级: {
-    title: 'h2&&Text;.detail_list&&ul:eq(1)&&li&&a:eq(2)&&Text',
+    title: 'h2&&Text',
     img: '.vodlist_thumb&&data-original',
-    desc: '.content_detail&&li:eq(1)&&Text;.detail_list&&ul:eq(1)&&li&&a&&Text;.detail_list&&ul:eq(1)&&li&&a:eq(1)&&Text;.detail_list&&ul:eq(1)&&li:eq(2)&&Text;.detail_list&&ul:eq(1)&&li:eq(3)&&Text',
+    desc: 'ul&&li:eq(1)&&Text;ul&&li&&a:eq(1)&&Text;ul&&li:eq(2)&&Text;ul&&li:eq(3)&&Text',
     content: '.content_desc&&span&&Text',
     tabs: '.play_source_tab&&a',
     lists: '.content_playlist:eq(#id) li',
