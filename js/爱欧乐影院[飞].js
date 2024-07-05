@@ -19,8 +19,8 @@ var rule = {
   二级: {
     title: 'h2&&Text',
     img: '.vodlist_thumb&&data-original',
-    desc: 'ul&&li:eq(1)&&Text;ul&&li&&a:eq(1)&&Text;ul&&li:eq(2)&&Text;ul&&li:eq(3)&&Text',
-    content: '.content_desc&&span&&Text',
+    desc: 'ul&&li:eq(1)&&Text;ul&&li:eq(2)&&Text;ul&&li:eq(3)&&Text',
+    content: '.content_desc&&Text',
     tabs: '.play_source_tab&&a',
     lists: '.content_playlist:eq(#id) li',
   },
