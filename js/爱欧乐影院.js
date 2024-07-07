@@ -15,14 +15,14 @@ var rule = {
   limit: 6,
   推荐: '.cbox_list;*;*;*;*;*',
   double: true,
-  一级: 'ul.vodlist li;a&&title;a&&data-original;.vodlist_sub&&Text;a&&href',
+  一级: 'ul.vodlist li;a&&title;a&&data-original;.pic_text&&Text;a&&href',
   二级: {
-    title: 'h2.title&&Text',
+    title: 'h2&&Text;.detail_list&&ul:eq(1)&&li&&a:eq(2)&&Text',
     img: '.vodlist_thumb&&data-original',
-    desc: '.play_text .text_score&&Text;.play_text a:eq(0)&&Text;.play_text a:eq(1)&&Text;.play_text a:eq(2)&&Text;.panel.play_content p:eq(0)&&Text;.panel.play_content p:eq(1)&&Text;.panel.play_content p:eq(2)&&Text',
-    content: '.panel.play_content p:eq(2)&&Text',
+    desc: '.content_detail&&li:eq(1)&&Text;.detail_list&&ul:eq(1)&&li&&a&&Text;.detail_list&&ul:eq(1)&&li&&a:eq(1)&&Text;.detail_list&&ul:eq(1)&&li:eq(2)&&Text;.detail_list&&ul:eq(1)&&li:eq(3)&&Text',
+    content: '.content_desc&&span&&Text',
     tabs: '.play_source_tab&&a',
     lists: '.content_playlist:eq(#id) li',
   },
   搜索: '*',
-};
+}
