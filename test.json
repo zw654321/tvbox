@@ -54,27 +54,6 @@
                 "ratio": 1.77
             }
         },
-    {
-        	"key": "no视频",
-        	"name": "no视频",
-        	"type": 3,
-        	"api": "csp_XBPQ",
-        	"searchable": 1,
-        	"quickSearch": 1,
-        	"jar": ".jar/XBPQ.jar",
-        	"filterable": 0,
-        	"ext": {
-            	"播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50",
-            	"直接播放": "null",
-            	"搜索url": "https://www.dgjiawu.com/se-1zxgt/?type=2&search={wd}&p={pg}",
-            	"播放数组": "&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&",
-            	"免嗅": "0",
-            	"主页url": "https://www.dgjiawu.com/",
-            	"分类url": "https://www.dgjiawu.com/mo-1zxgt/{cateId}",
-            	"分类":"电影大全$https://www.dgjiawu.com/mo-1zxgt/5738/1#电视剧大全$https://www.dgjiawu.com/mo-1zxgt/5749/1#综艺大全$https://www.dgjiawu.com/mo-1zxgt/5758/1#动漫大全$https://www.dgjiawu.com/mo-1zxgt/5767/1#",
-            	"图片": "data-original=\"&&\"",
-            	"不分线路": "1"
-        	},
     { "key": "看球", "name": "看球 | 直播", "type": 3, "api": "csp_Kanqiu", "searchable": 1, "changeable": 0, "style": { "type": "list" } },    
     { "key": "豆瓣", "name": "豆瓣 | 推荐", "type": 3, "api": "csp_Douban", "searchable": 0, "changeable": 1, "ext": "./json/douban.json" },
     { "key":"直播转点播", "name": "电台 ┃ 直播", "type":3, "searchable":0, "api": "./lib/live2vod.js", "ext":"./lib/feimaolive.json"},
