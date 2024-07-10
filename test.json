@@ -18,46 +18,8 @@
   "api": "csp_XBPQ",
   "jar": "./jar/XBPQ.jar",
   "ext": {
-   
-    
-    "数组": "class=\"module-item-pic&&</div>",
-    "图片": "data-src=\"&&\"",
-    "标题": "title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "副标题": "module-item-text\">&&</div>",
-    
-    "线路数组": "data-dropdown-value=&&</div>",
-    "线路标题": "<span>&&</span>",
-    
-    "播放数组": "module-play-list-content&&</div>",
-    "播放标题": "<span>&&</span>",
-    "播放链接": "href=\"&&\"",
-    
-    "免嗅": "1",
-    "嗅探词": ".m3u8#.mp4",
-    
-    "二次截取": "player_aaaa=&&</script>",
-    "二次播放截取": "url\":\"&&\"",
-    
-    "分析": "0",
-    "预处理": "",
-    
-    "搜索url": "https://www.iole.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
-    "搜索模式": "0",
-    "搜索数组": "\"list\":[&&]",
-    "搜索标题": "\"name\":\"&&\"",
-    "搜索图片": "\"pic\":\"&&\"",
-    "搜索链接": "\"id\":&&,",
-    "搜索后缀": "/voddetail/",
-    
-    "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36#Referer$https://www.iole.cc/",
-    
-    "倒序播放": "0",
-    "下一页": "class=\"next\"",
-    "翻页": "1",
-    
-    "是否写入记录": "1",
-    "跳转播放链接": "https://www.iole.cc/play/{playUrl}.html"
+    "分类url": "https://www.iole.cc/vodtype/{cateId}.html",
+    "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
   }
 },
 
