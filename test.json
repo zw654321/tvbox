@@ -21,12 +21,7 @@
     "分类url": "https://www.iole.cc/vodtype/{cateId}.html",
     "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
     
-    "数组": "class=\"module-item-pic&&</div>",
-    "图片": "data-src=\"&&\"",
-    "标题": "title=\"&&\"",
-    "链接": "href=\"&&\"",
-    "副标题": "module-item-text\">&&</div>",
-    
+   
     "线路数组": "data-dropdown-value=&&</div>",
     "线路标题": "<span>&&</span>",
     
@@ -59,10 +54,7 @@
     "搜索后缀": "/voddetail/",
     
     "访问请求头": "COOKIE",
-    "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
-    
-    "翻页": "1",
-    "分页": "1"
+    "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36"
   }
 },
 
