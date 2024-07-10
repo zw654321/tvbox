@@ -2,7 +2,7 @@ var rule = {
     title: '爱欧乐影院',
     host: 'https://www.iole.cc',
     url: '/vodshow/fyclass--------fypage---.html',
-    searchUrl: '/vodsearch/page/fypage/wd/**.html',
+    searchUrl: '/vodsearch/page/fypage/wd/*.html',
     class_parse: '.top_nav li:gt(0);a&&Text;a&&href;.*/(\\d+).html',
     searchable: 2,
     quickSearch: 0,
