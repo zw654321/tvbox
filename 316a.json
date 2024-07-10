@@ -15,7 +15,6 @@
 {"key":"Taohuazu","name":"桃花族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://thze.cc/","ext":"http://127.0.0.1:9978/file/TV/token.json","jar":"https://raw.githubusercontent.com/shawn82/PG18/master/pg.jar"},
 {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
 {"key":"Cable","name":"CableAV","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
-{"key":"暑假快练", "name":"暑假快练", "type": 3, "api": "csp_XBPQ", "ext": { "分类":"首页$http://aakhsck.cc/#日韩AV$http://aakhsck.cc/vodtype/1.html#国产系列$http://aakhsck.cc/vodtype/2.html#欧美$http://aakhsck.cc/vodtype/3.html#成人动漫$http://aakhsck.cc/vodtype/4.html#", "分类url": "http://aakhsck.cc/" } },
 {"key":"Top888","name": "Top888","type": 3,"api": "csp_Top888","searchable": 1,"changeable": 0},
 {"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.485}},
 {"key":"黄色仓库","name":"黄色仓库","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd","style":{"ratio":1.7},"ext":"./XBPQ/黄色仓库.json"},
