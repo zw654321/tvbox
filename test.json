@@ -18,10 +18,38 @@
   "api": "csp_XBPQ",
   "jar": "./jar/XBPQ.jar",
   "ext": {
-    "分类url": "https://www.iole.cc/vodtype/{cateId}.html",
-    "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
-    "嗅探词":"m3u8",
-    "免嗅": "1"
+    "分类url": "https://www.iole.cc/vodshow/{cateId}--------{catePg}---.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+    
+    "数组": "module-item-pic&&module-item-pic",
+    "图片": "data-src=\"&&\"",
+    "标题": "title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "副标题": "module-item-text\">&&</div>",
+    
+    "线路数组": "data-dropdown-value=&&</div>",
+    "线路标题": "<span>&&</span>",
+    
+    "播放数组": "module-play-list-content&&</div>",
+    "播放标题": "<span>&&</span>",
+    "播放链接": "href=\"&&\"",
+    
+    "搜索模式": "0",
+    "搜索url": "https://www.iole.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
+    "搜索数组": "\"list\":[&&]",
+    "搜索标题": "\"name\":\"&&\"",
+    "搜索图片": "\"pic\":\"&&\"",
+    "搜索链接": "\"id\":&&,",
+    "搜索后缀": "/voddetail/",
+    
+    "影片类型": "分类：</span>&&</div>",
+    "导演": "导演：</span>&&</div>",
+    "主演": "主演：</span>&&</div>",
+    "简介": "剧情：</span>&&</div>",
+    
+    "免嗅": "1",
+    "嗅探词": ".m3u8#.mp4#.flv#.m4a#.avi",
+    "筛选": "1"
   }
 },
 
