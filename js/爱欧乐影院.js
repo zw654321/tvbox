@@ -13,7 +13,7 @@ var rule = {
     play_parse: true,
     lazy: '',
     limit: 6,
-    推荐: '.module-items:eq(0);.module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
+    推荐: '.cbox_list;*;*;*;*;*',
     double: true,
     一级: '.module-items .module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
     二级: {
