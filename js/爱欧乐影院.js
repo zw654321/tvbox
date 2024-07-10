@@ -3,8 +3,7 @@ var rule = {
     host: 'https://www.iole.cc',
     url: '/vodshow/fyclass--------fypage---.html',
     searchUrl: '/vodsearch/page/fypage/wd/**.html',
-    //class_parse: '.top_nav li:gt(0);a&&Text;a&&href;.*/(\\d+).html',
-    class_parse: '.top_nav li:lt(5);a&&Text;a&&href;.*/(\\d+).html',
+    class_parse: '.top_nav li:gt(0);a&&Text;a&&href;.*/(\\d+).html',
     searchable: 2,
     quickSearch: 0,
     filterable: 0,
@@ -16,7 +15,7 @@ var rule = {
     limit: 6,
     推荐: '.cbox_list;*;*;*;*;*',
     double: true,
-    一级: '.module-items .module-item;a&&title;.lazyloaded&&data-src;.module-item-text&&Text;a&&href',
+    一级: 'ul.vodlist li;a&&title;a&&data-original;.pic_text&&Text;a&&href',
     二级: {
         title: 'h1&&Text;.video-info-aux&&Text',
         img: '.lazy.lazyload&&data-src',
