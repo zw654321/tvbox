@@ -21,7 +21,7 @@
     "分类url": "https://www.iole.cc/vodtype/{cateId}.html",
     "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
     "嗅探词": ".m3u8#https://m3u8.hmrvideo.com/play/#index.m3u8",
-    "线路数组": "href=\"javascript:;\"&&</li>",
+    "线路数组": "href=\"javascript:;\"&&</li>"
   }
 },
 
