@@ -15,7 +15,14 @@ var rule = {
   limit: 6,
   推荐: '.cbox_list;*;*;*;*;*',
   double: true,
-  一级: 'ul.vodlist li;a&&title;a&&data-original;.pic_text&&Text;a&&href',
+  一级:{
+  "ul.vodlist li": {
+    "title": "a.vodlist_thumb&&title",
+    "img": "a.vodlist_thumb&&data-original",
+    "desc": "div.vodlist_titbox p.vodlist_sub&&Text",
+    "href": "a.vodlist_thumb&&href"
+  }
+},
   二级: {
     title: 'h2&&Text;.detail_list&&ul:eq(1)&&li&&a:eq(2)&&Text',
     img: '.vodlist_thumb&&data-original',
