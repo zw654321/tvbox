@@ -3,7 +3,7 @@ var rule = {
     host: 'https://www.iole.cc',
     url: '/vodshow/fyclass--------fypage---.html',
     searchUrl: '/vodsearch/page/fypage/wd/**.html',
-    class_parse: '.navbar-items li:gt(0):lt(5);a&&Text;a&&href;.*/(\\d+).html',
+    class_parse: '.top_nav li:gt(0);a&&Text;a&&href;.*/(\\d+).html',
     searchable: 2,
     quickSearch: 0,
     filterable: 0,
