@@ -1,10 +1,15 @@
 {
-    "请求头": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"},
-    "数组": "ul.vodlist&&li",
-    "图片": "a&&data-original",
-    "标题": "p.vodlist_title&&a&&Text",
-    "链接": "a&&href",
-    "副标题": "p.vodlist_sub&&Text",
+  "分类url": "https://www.iole.cc/vodshow/id/{cateId}.html",
+  "数组": "body&&ul.vodlist&&li",
+  "图片": "a&&data-original",
+  "标题": "p.vodlist_title&&a&&Text",
+  "链接": "a&&href",
+  "副标题": "p.vodlist_sub&&Text",
+  "调试": "1",
+  "延迟": "3000",
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
     "分类url": "https://www.iole.cc/vodshow/id/{cateId}.html",
     "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
     "筛选":{
