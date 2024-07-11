@@ -13,7 +13,7 @@
 {
   "key": "黑木耳1",
   "name": "黑木耳影视",
-  "type": 1,
+  "type": 3,
   "api": "csp_XBPQ",
   "jar": "./jar/XBPQ.jar",
   "ext": {
