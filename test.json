@@ -16,7 +16,7 @@
   "name": "爱欧乐影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "./jar/XBPQ.jar"
+  "jar": "./jar/XBPQ.jar",
   "jar": "./jar/pg.jar",
   "ext": {
     "分类url": "https://www.iole.cc/vodtype/{cateId}.html",
