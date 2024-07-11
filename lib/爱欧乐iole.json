@@ -7,8 +7,7 @@
     
     "数组": "vodlist_item num_1&&</li>",
     "标题": "title=\"&&\"",
-    "副标题": "pic_text text_right\">&&</span>",
-    "图片": "data-original=\"&&\"",
+    "副标题": "pic_text text_right\">&&</span>[替换:更新至【>>更新:][替换:】>>集]",    "图片": "data-original=\"&&\"",
     "链接": "href=\"&&\"",
     
     "搜索url": "/vodsearch/{wd}----------{pg}---.html",
