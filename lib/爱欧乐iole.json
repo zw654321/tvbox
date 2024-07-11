@@ -9,7 +9,7 @@
     "分类url": "https://www.iole.cc/vodtype/{cateId}.html",
     "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
     "播放链接":"href=\"&&\"",
-    "页面代理": ""
+    "页面代理": "",
     "筛选":{
     "1":[
     {"key":"class","name":"剧情","value":[
