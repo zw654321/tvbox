@@ -11,8 +11,7 @@
     "链接": "href=\"&&\"",
     "年份": "vodlist_sub\">&&</p>",
     "集数": "pic_text text_right\">&&</span>",
-    "组合": "{年份}丨{集数}[替换:更新至【>>更新:][替换:】>>集]",
-    "副标题": "{组合}",
+    "副标题": "vodlist_sub\">&&</p>&&pic_text text_right\">&&</span>[替换:更新至【>>更新:][替换:】>>集]",
     
     "搜索url": "/vodsearch/{wd}----------{pg}---.html",
     "搜索数组": "vodlist_item&&</li>",
