@@ -16,7 +16,7 @@
   "name": "爱欧乐影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "./jar/XBPQ.jar",
+  "jar": "./jar/pg.jar",
   "ext": {
     "分类url": "https://www.iole.cc/vodtype/{cateId}.html",
     "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
@@ -28,7 +28,7 @@
             "key": "csp_XBPQ_JAV目錄大全",
             "name": "🔞JAV｜大全",
             "type": 3,
-            "jar": "./jar/XBPQ.jar",
+            "jar": "./jar/pg.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
