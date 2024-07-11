@@ -65,8 +65,8 @@
             }
         },
     
-  { "key": "csp_ipianba", "name": "片吧影视", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": { "分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html", "分类": "电影$1#剧集$2#动漫$3#综艺$4", "播放链接":"href=\"&&\"","页面代理": ""}},
-  { "key": "hbo", "name": "hbo", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": { "分类": "电影$https://www.hbotv1.com/movie/#电视剧$https://www.hbotv1.com/tv/#动漫$https://www.hbotv1.com/cartoon/#综艺$https://www.hbotv1.com/variety/#", "分类url": "https://www.hbotv1.com/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","播放链接":"href=\"&&\"","页面代理": ""} },
+  { "key": "csp_ipianba", "name": "片吧影视", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": { "分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html", "分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
+  { "key": "hbo", "name": "hbo", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": { "分类": "电影$https://www.hbotv1.com/movie/#电视剧$https://www.hbotv1.com/tv/#动漫$https://www.hbotv1.com/cartoon/#综艺$https://www.hbotv1.com/variety/#", "分类url": "https://www.hbotv1.com/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html" } },
   { "key": "新感觉", "name":"新感觉TV", "type":1, "api":"http://27.54.236.194:62/api.php/provide/vod/", "playUrl":"json:http://110.42.66.7:1122/XGJ/xgjjson.php?url=", "timeout":15, "searchable":1, "quickSearch":1, "filterable":1 },
   { "key": "csp_LiteApple", "name": "苹果 ┃ 影视", "type":3, "playerType": "2", "api": "csp_LiteApple", "searchable":1,"quickSearch":1, "filterable":1, "jar": "./jar/PandaQ240625.jar"}, 
   { "key": "比特", "name": " 比特 ┃ 影视", "type": 3, "api":"csp_Bttwo", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/PandaQ240625.jar"},
