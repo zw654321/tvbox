@@ -16,6 +16,7 @@
   "type": 3,
   "api": "csp_XBPQ",
   "jar": "./jar/XBPQ.jar",
+  "调试": "1",
   "ext": {
     "分类url": "https://heimuer.tv/index.php/vod/type/id/{cateid}/page/{catePg}.html",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
@@ -25,14 +26,14 @@
     "分类标题": "",
     "分类ID": "",
     "rules": {
-      "list": "ul.vodlist li",
+      "list": "body .row .stui-pannel .stui-vodlist .clearfix .type a",
       "title": "a&&title",
       "img": "a&&data-original",
       "desc": ".pic_text&&Text",
       "url": "a&&href"
     }
   }
-},
+}
 	  {
 	    "key": "csp_XBPQ_JAV目錄大全",
             "name": "🔞JAV｜大全",
