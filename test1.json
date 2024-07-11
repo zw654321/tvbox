@@ -26,11 +26,15 @@
     "分类标题": "",
     "分类ID": "",
     "rules": {
-      "list": "body .row .stui-pannel .stui-vodlist .clearfix .type a",
-      "title": "a&&title",
-      "img": "a&&data-original",
-      "desc": ".pic_text&&Text",
-      "url": "a&&href"
+      "list": "body .row .stui-pannel .stui-vodlist .clearfix",
+      "title": ".title a&&Text",
+      "url": ".title a&&href",
+      "category": ".type a&&Text",
+      "updateTime": ".time&&Text",
+      "detail": {
+        "img": ".stui-content__thumb img&&src",
+        "desc": ".stui-content__detail p&&Text"
+      }
     }
   }
 },
