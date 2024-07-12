@@ -5,10 +5,10 @@
     "分类url": "https://nuu.su/x/id/{cateId}/page/{catePg}.html",
     "分类": "电影$1#剧集$2#动漫$3#综艺$4",
     
-    "数组": "module-item-pic&&</div>",
+    "数组": "module-poster-item module-item&&</a>",
     "标题": "title=\"&&\"",
-    "副标题": "module-item-text\">&&</div>",
-    "图片": "data-src=\"&&\"",
+    "副标题": "module-item-note\">&&</div>",
+    "图片": "data-original=\"&&\"",
     "链接": "href=\"&&\"",
     
     "搜索url": "https://nuu.su/s/wd/{wd}.html",
