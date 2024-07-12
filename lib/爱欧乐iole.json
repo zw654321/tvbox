@@ -5,11 +5,11 @@
     "分类url": "https://www.iole.cc/vodshow/id/{cateId}/area/{area}/year/{year}/page/{catePg}.html",
     "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
     
-    //"数组": "vodlist_item num_1&&</li>",
-    //"标题": "title=\"&&\"",
-    //"副标题": "pic_text\">&&</span>",
-    //"图片": "data-original=\"&&\"",
-    //"链接": "href=\"&&\"",
+    "数组": "vodlist_item num_1&&</li>",
+    "标题": "title=\"&&\"",
+    "副标题": "pic_text\">&&</span>",
+    "图片": "data-original=\"&&\"",
+    "链接": "href=\"&&\"",
     
     "搜索url": "/vodsearch/{wd}----------{pg}---.html",
     "搜索数组": "vodlist_item&&</li>",
