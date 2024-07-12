@@ -7,7 +7,7 @@
     
     "数组": "vodlist_item num_1&&</li>",
     "标题": "title=\"&&\"",
-    "副标题": "{{cateId==2}}pic_text text_right\">&&</span>[替换:更至>>更新至]",
+    "副标题": "pic_text text_right\">&&</span>[替换:{{cateId==1}}>>]",
     "图片": "data-original=\"&&\"",
     "链接": "href=\"&&\"",
     
