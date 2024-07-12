@@ -10,17 +10,7 @@
   { "key": "php_music", "name":"Music", "type":4, "api":"https://demobe.serv00.net/music.php", "searchable":1, "style": { "type": "rect", "ratio": 1 } },
   { "key": "drpy_js_爱乐欧", "name": "爱乐欧 | 影视", "type":3, "api":"./lib/drpy2.min.js", "ext": "./js/爱欧乐影院.js"},
   { "key": "csp_iolecc", "name": "爱欧乐影视", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": "./lib/爱欧乐iole.json" },
-    	{
-  	"key": "nu",
-  	"name": "Nuu|XBPQ",
-  	"type": 3,
-  	"api": "csp_XBPQ",
-  	"jar": "./jar//XBPQ.jar",
-  	"ext": {
-    	"分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html",
-    	"分类": "電影$1#劇集$2#綜藝$3#動漫$4"
-   	}
-	},
+  { "key": "nu", "name": "Nuu|XBPQ", "type": 3, "api": "csp_XBPQ", "jar": "./jar//XBPQ.jar", "ext": "./lib/nuu.json" },	
 
 	  {
 	    "key": "csp_XBPQ_JAV目錄大全",
