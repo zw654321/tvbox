@@ -7,7 +7,7 @@
     
     "数组": "vodlist_item num_1&&</li>",
     "标题": "title=\"&&\"",
-    "副标题": "电影$$$连续剧--pic_text text_right\">&&</span>||综艺--pic_text text_right\">&&</span>||动漫--pic_text text_right\">&&</span>",
+    "副标题": "pic_text\">&&</span>"
     "图片": "data-original=\"&&\"",
     "链接": "href=\"&&\"",
     
