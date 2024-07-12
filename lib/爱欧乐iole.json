@@ -13,7 +13,7 @@
     
     "搜索url": "/vodsearch/{wd}----------{pg}---.html",
     "搜索数组": "vodlist_item&&</li>",
-    "搜索标题": "vodlist_title\"><a&&</a>",
+    "搜索标题": "vodlist_title\"><a.*?>&&</a>"
     "搜索图片": "data-original=\"&&\"",
     "搜索链接": "href=\"&&\"",
     "搜索副标题": "vodlist_sub\">&&</p>",
