@@ -7,7 +7,12 @@
     
     "数组": "vodlist_item num_1&&</li>",
     "标题": "title=\"&&\"",
-    "副标题": "pic_text text_right\">&&</span>[替换:{{cateId==1}}>>]",
+"副标题": {
+  "1": "",  // 电影分类不显示副标题
+  "2": "pic_text text_right\">&&</span>",  // 连续剧分类
+  "3": "pic_text text_right\">&&</span>",  // 综艺分类
+  "4": "pic_text text_right\">&&</span>"   // 动漫分类
+},
     "图片": "data-original=\"&&\"",
     "链接": "href=\"&&\"",
     
