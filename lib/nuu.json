@@ -1,7 +1,8 @@
 {
     "站名": "NuuSu",
     "主页url": "https://nuu.su/",
-    "分类url": "https://nuu.su/x/id/{cateId}/area/{area}/year/{year}/page/{catePg}.html",
+    "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+    "分类url": "https://nuu.su/x/by/{sort}/id/{cateId}/area/{area}/year/{year}/page/{catePg}.html",
     "分类": "电影$1#剧集$2#动漫$3#综艺$4",
 
 
