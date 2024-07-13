@@ -4,7 +4,6 @@
     "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
     "分类url": "https://nuu.su/x/id/{cateId}/area/{area}/year/{year}/page/{catePg}/by/{sort}.html",
     "分类": "电影$1#剧集$2#动漫$3#综艺$4",
-    "延迟": "3000",
 
     "免嗅": "1",
     "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
