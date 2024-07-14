@@ -6,8 +6,4 @@
                 "codecs": "",
                 "proxy": "noproxy"
             },
-            "jar": "https://raw.githubusercontent.com/shawn82/PG18/main/pg.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            }
+
