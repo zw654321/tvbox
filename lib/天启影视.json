@@ -8,8 +8,8 @@
     "数组": "class=\"fed-list-item&&</li>",
     "图片": "data-original=\"&&\"",
     "链接": "href=\"&&\"",
+    "标题": "class=\"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\">&&</a>",
     "副标题": "class=\"fed-list-remarks\">&&</span>",
-    "标题": "class=\"fed-list-title[^>]*>&&</a>",
 
     
     "搜索模式": "0",
