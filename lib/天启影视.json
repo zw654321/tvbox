@@ -3,10 +3,18 @@
     "主页url": "https://www.sxmzie.com/",
     "分类url": "https://www.sxmzie.com/by/{cateId}.html",
     "分类": "高清电影$1#电视剧大全$2#综艺节目$3#樱花动漫$4",
-
+    
     "数组": "<a class=\"fed-list-pics fed-lazy fed-part-2by3\"&&</a>",
     "图片": "data-original=\"&&\"",
-    "标题": "alt=\"&&\"",
     "链接": "href=\"&&\"",
-    "副标题": "class=\"fed-list-remarks fed-font-xii fed-text-white fed-text-center\">&&</span>"
+    "副标题": "class=\"fed-list-remarks&&</span>",
+    "评分": "class=\"fed-list-score&&</span>",
+    
+    "搜索模式": "0",
+    "搜索url": "/search.html?wd={wd}",
+    "搜索数组": "<a class=\"fed-list-pics fed-lazy fed-part-2by3\"&&</a>",
+    "搜索图片": "data-original=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "搜索副标题": "class=\"fed-list-remarks&&</span>",
+    "搜索评分": "class=\"fed-list-score&&</span>"
 }
