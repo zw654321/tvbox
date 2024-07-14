@@ -8,7 +8,7 @@
     "数组": "class=\"fed-list-item&&</li>",
     "图片": "data-original=\"&&\"",
     "链接": "href=\"&&\"",
-    "标题": "`<a class=\"fed-list-title[^>]*>([^<]+)</a>&&",
+    "标题": "href=\"/cz/(\\d+).html\"",
     "副标题": "class=\"fed-list-remarks\">&&</span>",
 
     
