@@ -6,8 +6,8 @@
     "分类url": "https://www.sxmzie.com/by/{cateId}.html",
     "分类": "高清电影$1#电视剧大全$2#综艺节目$3#樱花动漫$4",
     
-    "二次截取": "<ul class=\"fed-list-info&&</ul>",
-    "数组": "class=\"fed-list-item&&</li>",
+    "二次截取": "<ul class=\"fed-list-info fed-part-rows\">&&</ul>",
+    "数组": "<li class=\"fed-list-item&&</li>",
     "图片": "data-original=\"&&\"",
     "链接": "href=\"&&\"",
     "标题": "fed-list-title[^>]*>&&</a>",
