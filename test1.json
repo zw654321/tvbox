@@ -12,7 +12,7 @@
   { "key": "csp_iolecc", "name": "爱欧乐影视", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": "./lib/爱欧乐iole.json" },
   { "key": "nu", "name": "Nuu|XBPQ", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": "./lib/nuu.json" },	
   { "key": "py_emby", "name": "EMBY", "type": 3, "api": "./jar/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "https://cherrytv.one:443", "username": "ghost", "password": "ghost", "thread": 0 }, "changeable": 1 },
-  { "key": "py_emby1", "name": "🍏EMBY公益服•py", "type": 3, "api": "./py/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "http://kr.emby.cyou:8096", "username": "feverss", "password": "", "thread": 0 }, "changeable": 0 },
+  { "key": "py_emby1", "name": "🍏EMBY公益服•py", "type": 3, "api": "./jar/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "http://kr.emby.cyou:8096", "username": "feverss", "password": "", "thread": 0 }, "changeable": 0 },
   { "key": "酷影", "name": "酷影app", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.tvkuys.xyz/api.php/app/" },
   { "key": "QQ", "name": "QQ", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": " http://122.228.84.103:5825/api.php/app/" },	 
   { "key": "soporn", "name": "🔞soporn(T)", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": { "直接播放": "1", "嗅探词": "index.m3u8", "简介": "name=\"description\" content=\"&&\"/>", "分类url": "https://www.anticasf.com/cn/tag/{cateId}?page={catePg}" } },
