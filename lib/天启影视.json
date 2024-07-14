@@ -9,7 +9,7 @@
     "图片": "data-original=\"&&\"",
     "链接": "href=\"&&\"",
     "副标题": "class=\"fed-list-remarks\">&&</span>",
-    "标题": "fed-list-title\"[^>]*href=\"[^\"]*/(\\d+).html\"[^>]*>&&</a>",
+    "标题": "class=\"fed-list-title[^>]*>&&</a>",
 
     
     "搜索模式": "0",
