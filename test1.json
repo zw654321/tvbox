@@ -17,6 +17,7 @@
   { "key": "QQ", "name": "QQ", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": " http://122.228.84.103:5825/api.php/app/" },	 
   { "key": "soporn", "name": "🔞soporn(T)", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": { "直接播放": "1", "嗅探词": "index.m3u8", "简介": "name=\"description\" content=\"&&\"/>", "分类url": "https://www.anticasf.com/cn/tag/{cateId}?page={catePg}" } },
   { "key": "csp_XBPQ_JAV目錄大全", "name": "🔞JAV｜大全", "type": 3, "jar": "./jar/XBPQ.jar", "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/javmenu.json"},
+  { "key": "无尽资源", "name": "无尽 | 影视", "type": 1, "api": "https://wjzyapi.com/api.php/provide/vod/?ac=list", "playUrl": "https://jx.wujinkk.com/dplayer/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     
   { "key": "csp_ipianba", "name": "片吧影视", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": { "分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html", "分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
   { "key": "hbo", "name": "hbo", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": { "分类": "电影$https://www.hbotv1.com/movie/#电视剧$https://www.hbotv1.com/tv/#动漫$https://www.hbotv1.com/cartoon/#综艺$https://www.hbotv1.com/variety/#", "分类url": "https://www.hbotv1.com/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html" } },
