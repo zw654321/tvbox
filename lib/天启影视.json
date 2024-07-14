@@ -9,9 +9,8 @@
     "图片": "data-original=\"&&\"",
     "链接": "href=\"&&\"",
     "副标题": "class=\"fed-list-remarks\">&&</span>",
-    "评分": "class=\"fed-list-score&&</span>",
-    "标题": "fed-list-title&&</a>",
-    "演员": "fed-list-desc&&</span>",
+    "标题": "标题": "fed-list-title\"[^>]*href=\"[^\"]*/(\\d+).html\"[^>]*>&&</a>",
+
     
     "搜索模式": "0",
     "搜索url": "/search.html?wd={wd}",
