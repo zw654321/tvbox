@@ -1,4 +1,3 @@
-
 {
   "spider": "./jar/pg.jar",
   "lives": [ { "name": "tvlive", "type": 0, "url": "http://fai-mang.net/xsj1.txt", "playerType": 2 }, { "name": "嗅探", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0", "type": 0, "url": "http://fai-mang.net/xsj1.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png" } ],  
@@ -11,7 +10,6 @@
   { "key": "php_music", "name":"Music", "type":4, "api":"https://demobe.serv00.net/music.php", "searchable":1, "style": { "type": "rect", "ratio": 1 } },
   { "key": "drpy_js_爱乐欧", "name": "爱乐欧 | 影视", "type":3, "api":"./lib/drpy2.min.js", "ext": "./js/爱欧乐影院.js"},
   { "key": "csp_iolecc", "name": "爱欧乐影视", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": "./lib/爱欧乐iole.json" },
-  { "key": "天启", "name": "天启 | 影视", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": "./lib/天启影视.json" },
   { "key": "nu", "name": "Nuu|XBPQ", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": "./lib/nuu.json" },	
   { "key": "py_emby", "name": "EMBY", "type": 3, "api": "./jar/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "https://cherrytv.one:443", "username": "ghost", "password": "ghost", "thread": 0 }, "changeable": 1 },
   { "key": "py_emby1", "name": "🍏EMBY公益服•py", "type": 3, "api": "./jar/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "http://kr.emby.cyou:8096", "username": "feverss", "password": "", "thread": 0 }, "changeable": 0 },
