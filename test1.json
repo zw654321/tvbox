@@ -11,7 +11,7 @@
   { "key": "drpy_js_爱乐欧", "name": "爱乐欧 | 影视", "type":3, "api":"./lib/drpy2.min.js", "ext": "./js/爱欧乐影院.js"},
   { "key": "csp_iolecc", "name": "爱欧乐影视", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": "./lib/爱欧乐iole.json" },
   { "key": "nu", "name": "Nuu|XBPQ", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": "./lib/nuu.json" },	
-  { "key": "py_emby", "name": "EMBY", "type": 3, "api": "./jar/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "https://emby.plusmedia.site:443", "username": "普拉斯影业", "password": "plusisbest", "thread": 0 }, "changeable": 1 }
+  { "key": "py_emby", "name": "EMBY", "type": 3, "api": "./jar/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "https://emby.plusmedia.site:443", "username": "普拉斯影业", "password": "plusisbest", "thread": 0 }, "changeable": 1 },
 	  {
 	    "key": "csp_XBPQ_JAV目錄大全",
             "name": "🔞JAV｜大全",
