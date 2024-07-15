@@ -24,7 +24,7 @@
       "name": "Nuu|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./jar/XBPQ.jar",
       "ext": {
         "分类url":"https://nuu.su/x/id/{cateId}/page/{catePg}.html",
         "分类": "https://json-api.heimuer.xyz/api/list" 
