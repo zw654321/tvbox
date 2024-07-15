@@ -5,7 +5,7 @@
         "副标题": "center\">&&</span>",
         "链接": "href=\"&&\"",
         "线路数组": "<a href=\"#playlist*&&</li>",
-        "线路标题": "tab\">&&</a>",、
+        "线路标题": "tab\">&&</a>",
         "搜索url": "https://www.sxmzie.com/search.php?searchtype=5&tid={cateId}&area={area}&year={year}&letter={letter}&page={catePg}",
         "分类url": "https://www.sxmzie.com/by/{cateId}-{catePg}.html",
         "分类": "电影&剧集&综艺&动漫",
