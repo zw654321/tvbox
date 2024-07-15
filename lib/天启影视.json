@@ -8,6 +8,12 @@
         "线路标题": "tab\">&&</a>",
         "分类url": "https://www.sxmzie.com/search.php?searchtype=5&tid={cateId}&area={area}&year={year}&page={catePg}",
 
+        "搜索url": "https://www.sxmzie.com/search.php?searchtype=5&tid=1&wd={wd}&page={pg}",
+        "搜索数组": "class=\"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\"&&</li>",
+        "搜索标题": "html\">&&</a>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "搜索副标题": "center\">&&</span>",
         
         "分类": "电影&剧集&综艺&动漫",
         "分类值": "1&2&3&4",
