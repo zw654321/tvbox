@@ -29,7 +29,7 @@
             "filterable": 0,
             "timeout": 60,
             "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
+            "jar": "./jar/XBPQ.jar",
             "ext": {
                 "主页url": "https://xiaoxintv.com",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
@@ -50,6 +50,37 @@
             }
         },
     
+ {
+            "key": "GimyTV",
+            "name": "💕GimyTV",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "主页url": "https://gimy.tv/",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "数组": "class=\"myui-vodlist__box\">&&</div>",
+                "简介": "剧情简介</h3>&&</p>",
+                "线路数组": "class=\"title&&</div>",
+                "线路标题": ">&&</h3>",
+                "播放数组": "class=\"myui-content__list&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a",
+                "播放链接": "href=\"&&\"",
+                "搜索数组": "lazyload\"&&</a",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "分类url": "https://gimy.tv/genre/{cateId}-{area}-{year}-{catePg}/by/{by}.html",
+                "分类": "电视剧$2#电影$1#综艺$3#动漫$4"
+            }
+        },
+
   { "key": "csp_ipianba", "name": "片吧影视", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": { "分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html", "分类": "电影$1#剧集$2#动漫$3#综艺$4"}},
   { "key": "hbo", "name": "hbo", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": { "分类": "电影$https://www.hbotv1.com/movie/#电视剧$https://www.hbotv1.com/tv/#动漫$https://www.hbotv1.com/cartoon/#综艺$https://www.hbotv1.com/variety/#", "分类url": "https://www.hbotv1.com/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html" } },
   { "key": "新感觉", "name":"新感觉TV", "type":1, "api":"http://27.54.236.194:62/api.php/provide/vod/", "playUrl":"json:http://110.42.66.7:1122/XGJ/xgjjson.php?url=", "timeout":15, "searchable":1, "quickSearch":1, "filterable":1 },
