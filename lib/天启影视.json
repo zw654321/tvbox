@@ -6,6 +6,6 @@
     "分类": "高清电影$1#电视剧大全$2#综艺节目$3#樱花动漫$4",
     
     "数组": "<li class=\"fed-list-item&&</li>",
-    "标题": "class=\"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\"[^>]*>&&</a>"
+    "标题": "class=\"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\">&&</a>"
   
 }
