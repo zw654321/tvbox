@@ -7,7 +7,7 @@
     
     "数组": "<li class=\"fed-list-item&&</li>",
     //"标题": "class=\"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\"[^>]*>&&</a>"
-    "标题": "class=\"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\"[^>]*>([^<]*)</a>"
+    "标题": "<a class=\"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\" href=\"[^\"]*\">([^<]*)</a>"
 
     
    
