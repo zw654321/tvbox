@@ -1,14 +1,12 @@
 {
-    "站名": "天启影视",
-    "主页url": "https://www.sxmzie.com/",
-    "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",    
-    "分类url": "https://www.sxmzie.com/by/{cateId}-{catePg}.html",
-    "分类": "高清电影$1#电视剧大全$2#综艺节目$3#樱花动漫$4",
-    
-    "数组": "<li class=\"fed-list-item&&</li>",
-    "图片": "data-original=\"&&\"",
-    "标题": "fed-list-title&&</a>",
-    "副标题": "class=\"fed-list-remarks fed-font-xii fed-text-white fed-text-center\">&&</span>"
-
-
-}
+        "数组": "class=\"fed-list-item&&</li>",
+        "标题": "html\">&&</a>",
+        "图片": "data-original=\"&&\"",
+        "副标题": "center\">&&</span>",
+        "链接": "href=\"&&\"",
+        "线路数组": "<a href=\"#playlist*&&</li>",
+        "线路标题": "tab\">&&</a>",
+        "分类url": "https://www.sxmzie.com/by/{cateId}-{catePg}.html",
+        "分类": "电影&剧集&综艺&动漫",
+        "分类值": "1&2&3&4"
+  }
