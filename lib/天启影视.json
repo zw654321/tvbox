@@ -7,8 +7,9 @@
     
     "数组": "<li class=\"fed-list-item&&</li>",
     "图片": "data-original=\"&&\"",
-    "标题": "class=\"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\"[^>]*>&&</a>"
-    "副标题": "fed-list-remarks\">&&</span>"
+    "链接": "href=\"&&\"",
+    "标题": "class=\"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\"[^>]*>&&</a>",
+    "副标题": "fed-list-remarks\">&&</span>",
 
     "免嗅": "1",
     "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a"
