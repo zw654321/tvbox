@@ -6,10 +6,9 @@
         "链接": "href=\"&&\"",
         "线路数组": "<a href=\"#playlist*&&</li>",
         "线路标题": "tab\">&&</a>",
-        "分类url": "https://www.sxmzie.com/by/{cateId}-{catePg}.html?year={year}&letter={letter}",
-        "搜索模式": "1",
-        "搜索url": "https://www.sxmzie.com/search.php?searchtype=5&tid={cateId}&area={area}&page={catePg}",
+        "分类url": "https://www.sxmzie.com/search.php?searchtype=5&tid={cateId}&area={area}&year={year}&page={catePg}",
 
+        
         "分类": "电影&剧集&综艺&动漫",
         "分类值": "1&2&3&4",
         "筛选": {
