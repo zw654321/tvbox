@@ -7,7 +7,7 @@
     
     "数组": "<li class=\"fed-list-item&&</li>",
     "图片": "data-original=\"&&\"",
-    "标题": "fed-part-eone\">&&</a>",
+    "标题": "class=\"fed-list-remarks&&</a>[替换:<span class=\"fed-list-remarks.*?</span>>>空]",
     "副标题": "class=\"fed-list-remarks fed-font-xii fed-text-white fed-text-center\">&&</span>"
 
 
