@@ -9,29 +9,8 @@
     "数组": "<li class=\"fed-list-item&&</li>",
     "图片": "data-original=\"&&\"",
     "链接": "href=\"&&\"",
-    "标题": "class=\"fed-list-title&&</a>",
+    "标题": "class=\"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\"[^>]*>&&</a>"
     "副标题": "class=\"fed-list-remarks\">&&</span>",
     
-    "调试": "1",
-    
-    "搜索模式": "0",
-    "搜索url": "/search.html?wd={wd}",
-    
-    "影片类型": "类型：&&</span>",
-    "导演": "导演：&&</span>",
-    "主演": "主演：&&</span>",
-    "简介": "简介：&&</span>",
-    
-    "线路数组": "fed-tabs-item&&</li>",
-    "线路标题": ">&&</a>",
-    
-    "播放数组": "fed-play-item&&</ul>",
-    "播放列表": "<a&&/a>",
-    "播放标题": ">&&<",
-    "播放链接": "href=\"&&\"",
-    
-    "免嗅": "1",
-    "嗅探词": ".m3u8#.mp4#.flv",
-    
-    "筛选": "0"
+   
 }
