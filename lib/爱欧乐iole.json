@@ -10,7 +10,7 @@
     "图片": "data-original=\"&&\"",
     "标题": "title=\"&&\"",
     "链接": "href=\"&&\"",
-    "副标题": "class=\"vodlist_sub\">&&</div>"
+    "副标题": "class=\"vodlist_sub\">&&</div>",
 
     
     "搜索url": "/vodsearch.html?wd={wd}&submit=&page={pg}",
