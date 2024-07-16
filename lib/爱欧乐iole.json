@@ -5,11 +5,13 @@
     "分类url": "https://www.iolevod.com/vodshow/{cateId}--{area}--{class}---{year}---{catePg}---.html",
     "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
     
-    "数组": "vodlist_item num_1&&</li>",
-    "标题": "title=\"&&\"",
-    "副标题": "pic_text\">&&</span>",
+
+    "数组": "class=\"vodlist vodlist_wi list_v6 clearfix\"&&</ul>",
     "图片": "data-original=\"&&\"",
+    "标题": "title=\"&&\"",
     "链接": "href=\"&&\"",
+    "副标题": "class=\"vodlist_sub\">&&</div>"
+
     
     "搜索url": "/vodsearch.html?wd={wd}&submit=&page={pg}",
     "搜索数组": "vodlist_item&&</li>",
