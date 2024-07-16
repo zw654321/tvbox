@@ -25,7 +25,7 @@
             "name": "❤️‍🔥〔全看网丨XP™〕",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./XBPQ.jar",
+            "jar": "./jar/XBPQ.jar",
             "ext": {
                 "页面代理": "proxy",
                 "分类url": "https://www.qkw1.cc/show/{cateId}--{by}------{catePg}---{year}.html",
