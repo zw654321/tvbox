@@ -22,7 +22,7 @@
   { "key": "无尽资源", "name": "无尽 | 影视", "type": 1, "api": "https://wjzyapi.com/api.php/provide/vod/?ac=list", "playUrl": "https://jx.wujinkk.com/dplayer/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0, "categories": [ "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "动画片", "犯罪片", "奇幻片", "邵氏电影", "国产剧", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧", "海外剧", "泰剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "演唱会", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "有声动漫", "女频恋爱", "反转爽剧", "脑洞悬疑", "年代穿越", "古装仙侠", "现代都市" ] },
   { "key": "libhd", "name": "LIBHD | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar//XBPQ.jar", "ext": "./lib/libhd.json" },
   { "key": "小宝影院", "name": "小宝 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar//XBPQ.jar", "timeout": 60, "ext": "./lib/小宝影院.json" },
-  { "key": "GimyTV", "name": "Gimy | 影视", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "filterable": 0, "timeout": 60, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "./lib/gimyTV.json" },  
+  { "key": "GimyTV", "name": "Gimy | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar//XBPQ.jar", "timeout": 60, "ext": "./lib/gimyTV.json" },  
     
     {"key": "厂长影院",
             "name": "厂长┃影院",
