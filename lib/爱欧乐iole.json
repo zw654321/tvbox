@@ -2,9 +2,8 @@
     "站名": "爱欧乐影视",
     "主页url": "https://www.iolevod.com/",
     
-    //"分类url": "https://www.iolevod.com/vodshow/{cateId}-----------.html",
-    "分类url": "https://www.iolevod.com/vodshow/{cateId}-{area}----------{year}.html",
-    //"分类url": "https://www.iolevod.com/vodshow/{cateId}-{area}------{catepg}--{year}.html",
+    //"分类url": "https://www.iolevod.com/vodshow/{cateId}-{area}----------{year}.html",
+    "分类url": "https://www.iolevod.com/vodshow/{cateId}-{area}--------{catePg}--{year}.html",
     "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
     
 
