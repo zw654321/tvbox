@@ -23,7 +23,9 @@
   { "key": "libhd", "name": "LIBHD | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/libhd.json" },
   { "key": "小宝影院", "name": "小宝 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/小宝影院.json" },
   { "key": "GimyTV", "name": "Gimy | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/gimyTV.json" },  
-  { "key": "热播库", "name": "热播 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/rebozy.json" },  
+  //{ "key": "热播库", "name": "热播 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/rebozy.json" },  
+  { "key": "华为吧", "name": "华为 | 影视", "type": 1, "api": "https://cjhwba.com/api.php/provide/vod/?ac=list", "searchable": 1, "changeable": 1, },
+
     {"key": "厂长影院",
             "name": "厂长┃影院",
             "type": 3,
@@ -120,18 +122,7 @@
             "api": "http://nikanba.live/api.php/provide/vod/?ac=list"
         },
 
-    {
-            "key": "全看网",
-            "name": "❤️‍🔥〔全看网丨XP™〕",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "分类url": "https://www.qkw1.cc/show/{cateId}--{by}------{catePg}---{year}.html",
-                "分类": "电影&剧集&综艺&动漫",
-                "分类值": "1&2&3&4"
-            }
-        },  
+
 
     
 
