@@ -23,7 +23,7 @@
   { "key": "libhd", "name": "LIBHD | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar//XBPQ.jar", "ext": "./lib/libhd.json" },
   { "key": "小宝影院", "name": "小宝 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar//XBPQ.jar", "timeout": 60, "ext": "./lib/小宝影院.json" },
   { "key": "GimyTV", "name": "Gimy | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar//XBPQ.jar", "timeout": 60, "ext": "./lib/gimyTV.json" },  
-  { "key": "热播库", "name": "热播 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar//XBPQ.jar", "timeout": 60, "ext": "./lib/rebozy.json" },  
+  { "key": "热播库", "name": "热播 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0, "jar": "./jar//XBPQ.jar", "timeout": 60, "ext": "./lib/rebozy.json" },  
     {"key": "厂长影院",
             "name": "厂长┃影院",
             "type": 3,
