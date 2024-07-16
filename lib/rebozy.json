@@ -1,4 +1,15 @@
 {
-  "分类": "电影$1#电视剧$2#纪录片$3#动漫$4#综艺$5",
-  "分类url": "https://rebozj.pro/type/{cateId}-{catePg}.html"
+      "站名": "热播之家",
+      "主页url": "https://rebozj.pro/",
+  
+      "分类": "电影$1#电视剧$2#纪录片$3#动漫$4#综艺$5",
+      "分类url": "https://rebozj.pro/type/{cateId}-{catePg}.html",
+
+      "数组": "class=\"stui-vodlist__box\"&&</div></li>",
+      "图片": "data-original=\"&&\"",
+      "标题": "title=\"&&\"",
+      "链接": "href=\"&&\"",
+      "副标题": "class=\"pic-text text-right\"><b>&&</b></span>"
+
+  
 }
