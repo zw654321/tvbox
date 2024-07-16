@@ -4,7 +4,7 @@
     
     //"分类url": "https://www.iolevod.com/vodshow/{cateId}-----------.html",
     //"分类url": "https://www.iolevod.com/vodshow/{cateId}-{area}----------{year}.html",
-    "分类url": "https://www.iolevod.com/vodshow/{cateId}-{area}-------{catepg}--{year}.html",
+    "分类url": "https://www.iolevod.com/vodshow/{cateId}-{area}------{catepg}--{year}.html",
     "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
     
 
@@ -15,8 +15,7 @@
     "副标题": "class=\"vodlist_sub\">&&</div>",
 
     
-    //"搜索url": "/vodsearch.html?wd={wd}&submit=&page={pg}",
-    "搜索url": "/vodsearch/page/{pg}/wd/{wd}.html",
+    "搜索url": "/vodsearch.html?wd={wd}&submit=&page={pg}",
     "搜索模式": "1",
     "搜索数组": "vodlist clearfix&&</li>",
     "搜索标题": "title=\"&&\"",
