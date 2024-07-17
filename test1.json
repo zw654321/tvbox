@@ -26,10 +26,11 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
-            "playUrl": "https://jav.sb/addons/dplayer/?url=",
             "ext": {
+                "请求头": "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
                 "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                //"嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "嗅探词": "play.jav.sb#video.php?id=#.mp4",
                 "数组": "class=\"thumbnail group\"&&</div>",
                 "图片": "data-src=\"&&\"",
                 "标题": "alt=\"&&\"",
