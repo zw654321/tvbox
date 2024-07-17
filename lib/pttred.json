@@ -8,9 +8,7 @@
     "线路数组": "class=\"nav nav-tabs&&</ul>",
     "线路标题": "title=\"&&\"",
     
-    "播放数组": "class=\"nav nav-tabs&&</ul>",
-    "播放标题": ">&&</a>",
-    "播放链接": "href=\"&&\"",
+
     
     "影片类型": "<th class=\"text-center\">類別</th>&&</td>",
     "导演": "<th class=\"text-center\">導演</th>&&</td>",
