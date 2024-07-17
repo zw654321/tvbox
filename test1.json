@@ -20,36 +20,7 @@
   { "key": "吃瓜大队py", "name": "🔞吃瓜大队", "api": "./jar/吃瓜大队.py", "filterable": 1, "quickSearch": 1, "searchable": 1, "style": { "type": "rect", "ratio": 1.485 }, "type": 3 },
   { "key": "soporn", "name": "🔞soporn(T)", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": { "直接播放": "1", "嗅探词": "index.m3u8", "简介": "name=\"description\" content=\"&&\"/>", "分类url": "https://www.anticasf.com/cn/tag/{cateId}?page={catePg}" } },
   { "key": "csp_XBPQ_JAV目錄大全", "name": "🔞JAV｜大全", "type": 3, "jar": "./jar/XBPQ.jar", "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/javmenu.json"},
-    {
-            "key": "javsb",
-            "name": "🔞javsb(T)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
 
-            "ext": {
-                "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36#Referer$https://jav.sb/",
-                "直接播放": "1",
-                //"嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                //"嗅探词": "play.jav.sb#video.php?id=#.mp4",
-                "数组": "class=\"thumbnail group\"&&</div>",
-                "图片": "data-src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "链接": "href=\"&&\"",
-  "播放数组": "class=\"plyr__video-wrapper\"&&</div>",
-  "播放列表": "encrypt\":0&&,\"",
-  "播放标题": "vod_name\":\"&&\"",
-  "播放链接": "metadata\" src=\"&&.mp4",
-  "播放链接前缀": "https://jav.sb/addons/dplayer/?url=",
-  "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://jav.sb/#Cookie$HstCfa4878802=1721204187449; HstCmu4878802=1721204187449; PHPSESSID=652436bbc2da5ec5058fe584c068508d; HstCnv4878802=2; HstCns4878802=5; cf_clearance=sF.YR3VSqbTR9mWkbT0ABqVJEiXkVrpBarHvxceuf6c-1721230069-1.0.1.1-B465xEweQzBGwVJleQkSKfvVTauyvfWXQdXewQn1nbAvQfg5lVCfS7UJMaGgN3GpbX9QmCWi14LnVPRO1crRmQ; HstCla4878802=1721230611870; HstPn4878802=9; HstPt4878802=21; _dd_s=logs=1&id=2ce102ce-7112-40ff-8b22-465d0864f9cb&created=1721230067835&expire=1721231516729",
-
-  "嗅探词": ".mp4#.m3u8#.flv",
-  "免嗅": "0",
-                "调试":"1",
-                "分类url": "https://jav.sb/javtype/{cateId}-{catePg}.html",
-                "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
-            }
-        },
 
   { "key": "无尽资源", "name": "无尽 | 影视", "type": 1, "api": "https://wjzyapi.com/api.php/provide/vod/?ac=list", "playUrl": "https://jx.wujinkk.com/dplayer/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0, "categories": [ "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "动画片", "犯罪片", "奇幻片", "邵氏电影", "国产剧", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧", "海外剧", "泰剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "演唱会", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "有声动漫", "女频恋爱", "反转爽剧", "脑洞悬疑", "年代穿越", "古装仙侠", "现代都市" ] },
   { "key": "libhd", "name": "LIBHD | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/libhd.json" },
