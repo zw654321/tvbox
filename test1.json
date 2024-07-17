@@ -53,7 +53,7 @@
     "name": "AVTOP10",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "./XBPQ.jar",
+    "jar": "./jar/XBPQ.jar",
     "ext":     {
   "作者": "",
   "站名": "AVTop10",
