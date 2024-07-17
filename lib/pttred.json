@@ -3,7 +3,7 @@
     "主页url": "https://ptt.red/",
     "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",    
     "分类url": "https://ptt.red/p/{cateId}",
-    "分类": "电视剧$3#电影$1#动漫$4#综艺$2#短剧"
+    "分类": "电影$1#电视剧$3#综艺$2#动漫$4#短剧66"
     
 
 }
