@@ -4,6 +4,21 @@
     "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",    
     "分类url": "https://ptt.red/p/{cateId}?area_id={area}&year={year}&page={catePg}",
     "分类": "電影$1#電視劇$3#動漫$4#綜藝$2#短劇$66",
+
+    "线路数组": "class=\"nav nav-tabs&&</ul>",
+    "线路标题": "title=\"&&\"",
+    
+    "播放数组": "class=\"nav nav-tabs&&</ul>",
+    "播放标题": ">&&</a>",
+    "播放链接": "href=\"&&\"",
+    
+    "影片类型": "<th class=\"text-center\">類別</th>&&</td>",
+    "导演": "<th class=\"text-center\">導演</th>&&</td>",
+    "地区": "<th class=\"text-center\">地區</th>&&</td>",
+    "年代": "<th class=\"text-center\">年代</th>&&</td>",
+    "更新时间": "<th class=\"text-center\">更新</th>&&</td>",
+    "简介": "<h1 class=\"m-0\">&&</h1>[不包含:片]",
+    
     "筛选": {
       "1": [
         {
