@@ -41,6 +41,8 @@
   "播放标题": "vod_name\":\"&&\"",
   "播放链接": "metadata\" src=\"&&.mp4",
   "播放链接前缀": "https://jav.sb/addons/dplayer/?url=",
+  "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://jav.sb/#Cookie$HstCfa4878802=1721204187449; HstCmu4878802=1721204187449; PHPSESSID=652436bbc2da5ec5058fe584c068508d; HstCnv4878802=2; HstCns4878802=5; cf_clearance=sF.YR3VSqbTR9mWkbT0ABqVJEiXkVrpBarHvxceuf6c-1721230069-1.0.1.1-B465xEweQzBGwVJleQkSKfvVTauyvfWXQdXewQn1nbAvQfg5lVCfS7UJMaGgN3GpbX9QmCWi14LnVPRO1crRmQ; HstCla4878802=1721230611870; HstPn4878802=9; HstPt4878802=21; _dd_s=logs=1&id=2ce102ce-7112-40ff-8b22-465d0864f9cb&created=1721230067835&expire=1721231516729"
+
   "嗅探词": ".mp4#.m3u8#.flv",
   "免嗅": "0",
                 "调试":"1",
