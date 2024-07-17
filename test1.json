@@ -30,7 +30,7 @@
                 "请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
                 "直接播放": "1",
                 //"嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "嗅探词": "play.jav.sb#video.php?id=#.mp4",
+                //"嗅探词": "play.jav.sb#video.php?id=#.mp4",
                 "数组": "class=\"thumbnail group\"&&</div>",
                 "图片": "data-src=\"&&\"",
                 "标题": "alt=\"&&\"",
@@ -38,7 +38,11 @@
   "播放数组": "class=\"plyr__video-wrapper\"&&</div>",
   "播放列表": "encrypt\":0&&,\"",
   "播放标题": "vod_name\":\"&&\"",
-  "播放链接": "metadata\" src=\"&&\"",
+  "播放链接": "metadata\" src=\"&&.mp4",
+  "播放链接后缀": ".mp4",
+  "播放链接前缀": "https://jav.sb/addons/dplayer/?url=",
+  "嗅探词": ".mp4#.m3u8#.flv",
+  "免嗅": "0"
                 "调试":"1",
                 "分类url": "https://jav.sb/javtype/{cateId}-{catePg}.html",
                 "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
