@@ -12,13 +12,7 @@
     "链接": "href=\"&&\"",
     "副标题": "class=\"vodlist_sub\">&&</div>",
 
-    
-    "搜索url": "/vodsearch.html?wd={wd}&submit=&page={pg}",
-    "搜索数组": "vodlist clearfix&&</li>",
-    "搜索标题": "title=\"&&\"",
-    "搜索图片": "data-original=\"&&\"",
-    "搜索链接": "href=\"&&\"",
-    "搜索副标题": "vodlist_sub\">&&</p>",
+
     
     "影片分类": "分类：&&</a>",
     "导演": "导演：&&</p>",
