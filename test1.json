@@ -48,6 +48,25 @@
                 "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
             }
         },
+    {
+    "key": "AVTOP10",
+    "name": "AVTOP10",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./XBPQ.jar",
+    "ext": {
+        "主页url": "https://avtop10.com/",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "播放链接": "href=\"&&\"",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "线路数组": "<div class=\"module-tab-item&&</div>",
+        "线路标题": "<span>&&</span>",
+        "分类url": "https://avtop10.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "国产$1#日本最近更新$https://avtop10.com/list/new.html#日本中文字幕$https://avtop10.com/list/chinese.html#日本女优一览$https://avtop10.com/acter/index.html#中文热门$https://avtop10.com/list/chinese---hot.html#本月热门$https://avtop10.com/list/hot.html#日本av类型$http://avtop10.com/tags/index.html"
+    }
+},
   { "key": "无尽资源", "name": "无尽 | 影视", "type": 1, "api": "https://wjzyapi.com/api.php/provide/vod/?ac=list", "playUrl": "https://jx.wujinkk.com/dplayer/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0, "categories": [ "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "动画片", "犯罪片", "奇幻片", "邵氏电影", "国产剧", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧", "海外剧", "泰剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "演唱会", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "有声动漫", "女频恋爱", "反转爽剧", "脑洞悬疑", "年代穿越", "古装仙侠", "现代都市" ] },
   { "key": "libhd", "name": "LIBHD | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/libhd.json" },
   { "key": "小宝影院", "name": "小宝 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/小宝影院.json" },
