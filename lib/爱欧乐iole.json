@@ -1,5 +1,6 @@
 {
-    
+    "站名": "爱欧乐影视",
+    "主页url": "https://www.iolevod.com/",
 
     "分类url": "https://www.iolevod.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
     "分类": "电影&连续剧&综艺&动漫",
@@ -13,7 +14,6 @@
 
     
     "搜索url": "/vodsearch.html?wd={wd}&submit=&page={pg}",
-    "搜索模式": "1",
     "搜索数组": "vodlist clearfix&&</li>",
     "搜索标题": "title=\"&&\"",
     "搜索图片": "data-original=\"&&\"",
