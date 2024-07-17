@@ -2,7 +2,7 @@
     "站名": "PTT",
     "主页url": "https://ptt.red/",
     "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",    
-    "分类url": "https://ptt.red/p/{cateId}{class}{area}{year}&page={catepg},
+    "分类url": "https://ptt.red/p/{cateId}{class}{area}{year}&page={catepg}",
     "分类": "電影$1#電視劇$3#動漫$4#綜藝$2#短劇$66",
      "筛选": {
               "1": [
