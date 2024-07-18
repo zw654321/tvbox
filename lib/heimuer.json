@@ -1,7 +1,7 @@
 {
   "作者": "凯哥 - 316二次修改",
   "站名": "黑木耳采集",
-  
+  "头部集合": "User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1#authority$heimuer.tv#referer$https://heimuer.tv/",
   "分类": "电影&电视剧&动漫&综艺&短剧",
   "分类值": "1&2&3&4&5",
   "分类url": "https://heimuer.tv/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
@@ -36,7 +36,7 @@
   "播放列表": "表&&表",
   "播放标题": "题&&题",
   "播放链接": "链&&链+?sku=OWY3ZDA4ZjVjYzY3YmRhYjM5NTUwYzEyZWRjNjUyZWM1NjQ2ZGRjYTVhMGVkM2Nh&p=1&sign=9a69d1563936ead3677623722660c4d9", 
-
+  "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://heimuer.tv/#Cookie$PHPSESSID=t9a0fl2ngh4t175j3995v2669d",
   "嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com",
   
       "筛选": {
