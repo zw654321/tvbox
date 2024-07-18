@@ -13,7 +13,7 @@
   { "key": "天启", "name": "天启 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/天启影视.json" },
   { "key": "pttred", "name": "PTT | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/pttred.json" },
   { "key": "heimuer1", "name": "黑木耳3 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/heimuer.json" },
-  { "key": "huaweiba", "name": "华为吧 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./lib/XBPQ.jar", "timeout": 60, "ext": "./lib/华为吧.json" },
+  { "key": "huaweiba", "name": "华为吧 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/华为吧.json" },
   { "key": "nu", "name": "Nuu | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/nuu.json" },	
   { "key": "py_emby", "name": "EMBY", "type": 3, "api": "./jar/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "https://cherrytv.one:443", "username": "ghost", "password": "ghost", "thread": 0 }, "changeable": 1 },
   { "key": "py_emby1", "name": "🍏EMBY公益服•py", "type": 3, "api": "./jar/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "http://kr.emby.cyou:8096", "username": "feverss", "password": "", "thread": 0 }, "changeable": 0 },
