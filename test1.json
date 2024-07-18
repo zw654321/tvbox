@@ -6,7 +6,7 @@
   "sites": [
   { "key": "黑木耳", "name": "神速 | 影视", "type": 1, "api": "https://json.heimuer.xyz/api.php/provide/vod/", "searchable": 1, "changeable": 1, "categories": ["国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片","日本动漫","国产动漫","欧美动漫","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺"]},
   { "key": "php_hmezy", "name": "黑木耳克隆", "type": 4, "api": "https://demobe.serv00.net/heimuer.php", "searchable": 1, "quickSearch":0, "filterable":0 },
-  { "key": "heimuer1", "name": "黑木耳3 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./lib/XBPQ.jar", "timeout": 60, "ext": "./lib/heimuer.json" },
+
   { "key": "短剧", "name": "短剧 | 影视", "type": 1, "api": "https://json.heimuer.xyz/api.php/provide/vod/", "searchable": 1, "changeable": 1, "categories": ["虐恋短剧","古装短剧","逆袭短剧","悬疑短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","萌宝短剧","其它短剧"]},
   { "key": "php_music", "name":"Music", "type":4, "api":"https://demobe.serv00.net/music.php", "searchable":1, "style": { "type": "rect", "ratio": 1 } },
   { "key": "drpy_js_爱乐欧", "name": "爱乐欧 | 影视", "type":3, "api":"./lib/drpy2.min.js", "ext": "./js/爱欧乐影院.js"},
@@ -26,7 +26,8 @@
   { "key": "无尽资源", "name": "无尽 | 影视", "type": 1, "api": "https://wjzyapi.com/api.php/provide/vod/?ac=list", "playUrl": "https://jx.wujinkk.com/dplayer/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0, "categories": [ "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "动画片", "犯罪片", "奇幻片", "邵氏电影", "国产剧", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧", "海外剧", "泰剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "演唱会", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "有声动漫", "女频恋爱", "反转爽剧", "脑洞悬疑", "年代穿越", "古装仙侠", "现代都市" ] },
   { "key": "libhd", "name": "LIBHD | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/libhd.json" },
   { "key": "小宝影院", "name": "小宝 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/小宝影院.json" },
-  { "key": "GimyTV", "name": "Gimy | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/gimyTV.json" },  
+  { "key": "GimyTV", "name": "Gimy | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/gimyTV.json" },
+  { "key": "heimuer1", "name": "黑木耳3 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./lib/XBPQ.jar", "timeout": 60, "ext": "./lib/heimuer.json" },
   //{ "key": "热播库", "name": "热播 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/rebozy.json" },  
   { "key": "华为吧", "name": "华为 | 影视", "type": 1, "api": "https://cjhwba.com/api.php/provide/vod/?ac=list", "searchable": 1, "changeable": 1, "categories": [ "短剧", "冒险片", "剧情片", "动作片", "动画电影", "喜剧片", "奇幻片", "恐怖片", "悬疑片", "惊悚片", "歌舞片", "灾难片", "爱情片", "科幻片", "犯罪片", "经典片", "网络电影", "战争片", "伦理片", "欧美剧", "日剧", "韩剧", "台剧", "泰剧", "国产剧", "港剧", "新马剧", "其他剧", "欧美动漫", "日韩动漫", "国产动漫", "新马泰动漫", "港台动漫", "其他动漫", "国产综艺", "日韩综艺", "欧美综艺", "新马泰综艺", "港台综艺", "其他综艺", "纪录片" ]},
   { "key": "最大", "name": "最大 | 影视", "type": 0, "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/", "searchable": 1, "changeable": 1},
