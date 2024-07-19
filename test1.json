@@ -11,7 +11,7 @@
   { "key": "drpy_js_爱乐欧", "name": "爱乐欧 | 影视", "type":3, "api":"./lib/drpy2.min.js", "ext": "./js/爱欧乐影院.js"},
   { "key": "csp_iolecc", "name": "爱欧乐影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/爱欧乐iole.json" },
   { "key": "天启", "name": "天启 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/天启影视.json" },
-  { "key": "pttred", "name": "PTT | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/pttred.json" },
+  { "key": "pttred", "name": "PTT | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/pttred1.json" },
   { "key": "heimuer1", "name": "黑木耳3 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/heimuer.json" },
   { "key": "huaweiba", "name": "华为吧 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/华为吧.json" },
   { "key": "nu", "name": "Nuu | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/nuu.json" },	
