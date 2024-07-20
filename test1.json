@@ -36,7 +36,7 @@
   "key": "py_dm84",
   "name": "DM84",
   "type": 3,
-  "api": "https://gitee.com/dobebly/epg_-img/raw/master/py_dm84.py",
+  "api": "./jar/py_dm84.py",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
