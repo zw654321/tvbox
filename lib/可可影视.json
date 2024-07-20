@@ -42,7 +42,7 @@
 	  "1": [
 			{
 			  "key": "class",
-			  "name": "类型",
+			  "name": "剧情",
 			  "value": [
 				{"n": "全部", "v": ""},
 				{"n": "Netflix", "v": "NETFLIX"},
