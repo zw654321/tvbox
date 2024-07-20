@@ -36,7 +36,7 @@
   "key": "py_dm84",
   "name": "DM84",
   "type": 3,
-  "api": "./jar/py_dm84.py",
+  "api": "./lib/py_dm84.py",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
