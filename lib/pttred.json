@@ -1,5 +1,7 @@
 {
+    "作者": "316",
     "站名": "PTT",
+	
     "主页url": "https://ptt.red/",
 
     "分类url": "https://ptt.red/p/{cateId}?area_id={area}&year={year}&page={catePg}",
@@ -25,8 +27,8 @@
 	"播放链接": "href=\"&&\"",
 	"嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com",
 
-	"影片类型": "類別</th><td><a href=*>&&</a>",
-	"导演": "導演</th><td><a href=*>&&</a>",
+"影片类型": "類別</th><td><a href=*>&&</a>",
+"导演": "導演</th><td><a href=*>&&</a>",
 
 
     
