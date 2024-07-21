@@ -33,25 +33,11 @@
   { "key": "kekeys", "name": "可可1 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/可可影视.json" }, 
   { "key": "ddys", "name": "低端1 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/低端影视.json" }, 
   { "key": "pbys", "name": "片吧 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/片吧影视.json" },   
-{"key":"85","name":"🧲85电影网","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar","ext":{"数组":"post-list clearfix mb15&&</li>","标题":"alt=*《&&》","副标题":"alt=*》&&\"","图片":"src=\"&&\"","简介":" 导读：&&</div>","播放数组":"downlist&&</div>","播放链接":"href=\"&&\"","分类url":"https://85128.net/category-{cateId}_{catePg}.html;;d","分类数组":"<a&&/a>[不包含:更多]","分类标题":">&&<","分类ID":"category-&&.html"}},
-    {
-            "key": "ppxdm",
-            "name": "💕ppx动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-    "jar": "./jar/XBPQ.jar", 
-            "ext": {
-                "主页url": "https://www.ppxdm.com/",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "图片": "data-original=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "链接": "href=\"&&\"",
-                "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
-                "线路标题": "<span>&&</span>",
-                "分类url": "https://www.ppxdm.com/v-show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "动漫电影$1#日本动漫$2#国产动漫$3#欧美动漫$4#短剧$20"
-            }
-        },
+  { "key": "ppxdm", "name": "PPX | 动漫", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/ppxdm.json" },   
+  { "key": "jiohub", "name": "Jojo | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/jiohub.json" },  
+  { "key": "zjtu", "name": "追剧兔 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/追剧兔.json" },  
+
+
     {
             "key": "222cuo",
             "name": "🔞222cuo",
