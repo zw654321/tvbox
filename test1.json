@@ -38,6 +38,7 @@
             "name": "🔞KanAV",
             "type": 3,
             "api": "csp_XBPQ",
+           "jar": "./jar/XBPQ.jar", 
             "ext": {
                 "主页url": "https://kanav.info/",
                 "直接播放": "1",
