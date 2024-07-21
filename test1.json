@@ -33,7 +33,8 @@
   { "key": "kekeys", "name": "可可1 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/可可影视.json" }, 
   { "key": "ddys", "name": "低端1 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/低端影视.json" }, 
   { "key": "pbys", "name": "片吧 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/片吧影视.json" },   
-{
+{"key":"85","name":"🧲85电影网","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar","ext":{"数组":"post-list clearfix mb15&&</li>","标题":"alt=*《&&》","副标题":"alt=*》&&\"","图片":"src=\"&&\"","简介":" 导读：&&</div>","播放数组":"downlist&&</div>","播放链接":"href=\"&&\"","分类url":"https://85128.net/category-{cateId}_{catePg}.html;;d","分类数组":"<a&&/a>[不包含:更多]","分类标题":">&&<","分类ID":"category-&&.html"}},
+    {
             "key": "ppxdm",
             "name": "💕ppx动漫",
             "type": 3,
