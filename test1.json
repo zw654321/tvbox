@@ -34,6 +34,24 @@
   { "key": "ddys", "name": "低端1 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/低端影视.json" }, 
   { "key": "pbys", "name": "片吧 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/片吧影视.json" },   
 {
+            "key": "ppxdm",
+            "name": "💕ppx动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+    "jar": "./jar/XBPQ.jar", 
+            "ext": {
+                "主页url": "https://www.ppxdm.com/",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "图片": "data-original=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
+                "线路标题": "<span>&&</span>",
+                "分类url": "https://www.ppxdm.com/v-show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "动漫电影$1#日本动漫$2#国产动漫$3#欧美动漫$4#短剧$20"
+            }
+        },
+    {
             "key": "222cuo",
             "name": "🔞222cuo",
             "type": 3,
