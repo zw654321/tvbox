@@ -38,7 +38,25 @@
   { "key": "jiohub", "name": "Jojo | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/jiohub.json" },  
   { "key": "zjtu", "name": "追剧兔 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/追剧兔.json" },  
 
-
+{
+            "key": "唐人街",
+            "name": "💕唐人街",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "主页url": "https://www.tangrenjie.one/",
+                "数组": "class=\"vodlist_thumb lazyload\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介": "class=\"content_desc context clearfix\"&&</span>",
+                "线路数组": "class=\"play_source_tab list_scroll clearfix\"&&</div>",
+                "线路标题": ">&nbsp;<b>&&</b>",
+                "分类url": "https://www.tangrenjie.one/index.php/vod/show/area/{area}/id/{cateId}/letter/{letter}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+            }
+        },
     {
             "key": "222cuo",
             "name": "🔞222cuo",
