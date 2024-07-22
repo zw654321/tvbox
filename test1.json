@@ -37,7 +37,8 @@
   { "key": "ppxdm", "name": "PPX | 动漫", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/ppxdm.json" },   
   { "key": "jiohub", "name": "Jojo | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/jiohub.json" },  
   { "key": "zjtu", "name": "追剧兔 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/追剧兔.json" },  
-{
+{"key": "采集之王","name": "采集之王","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "./lib/采集之王.js?type=url&params=./lib/采集静态.json"},
+    {
             "key": "策驰影院",
             "name": "💕策驰影院",
             "type": 3,
