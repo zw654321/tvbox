@@ -24,165 +24,36 @@
   { "key": "py_emby1", "name": "🍏EMBY公益服•py", "type": 3, "api": "./jar/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "http://kr.emby.cyou:8096", "username": "feverss", "password": "", "thread": 0 }, "changeable": 0 },
   { "key": "酷影", "name": "酷影 | 影视", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.tvkuys.xyz/api.php/app/" },
   { "key": "QQ", "name": "QQ | 影视", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": " http://122.228.84.103:5825/api.php/app/" },	 
-  { "key": "吃瓜大队py", "name": "🔞吃瓜大队", "api": "./jar/吃瓜大队.py", "filterable": 1, "quickSearch": 1, "searchable": 1, "style": { "type": "rect", "ratio": 1.485 }, "type": 3 },
-  { "key": "soporn", "name": "🔞soporn(T)", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": { "直接播放": "1", "嗅探词": "index.m3u8", "简介": "name=\"description\" content=\"&&\"/>", "分类url": "https://www.anticasf.com/cn/tag/{cateId}?page={catePg}" } },
-  { "key": "csp_XBPQ_JAV目錄大全", "name": "🔞JAV｜大全", "type": 3, "jar": "./jar/XBPQ.jar", "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/javmenu.json"},
-  { "key": "19madou", "name": "🔞19麻豆", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "style": { "type": "rect", "ratio": 1.78 },"jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/19madou.json" },
-  { "key": "爱豆传媒", "name": "🔞爱豆传媒", "type": 3,  "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/rourou.json" },
+
   { "key": "无尽资源", "name": "无尽1 | 影视", "type": 1, "api": "https://wjzyapi.com/api.php/provide/vod/?ac=list", "playUrl": "https://jx.wujinkk.com/dplayer/?url=", "searchable": 1, "quickSearch": 1, "filterable": 0, "categories": [ "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片", "悬疑片", "动画片", "犯罪片", "奇幻片", "邵氏电影", "国产剧", "香港剧", "台湾剧", "美国剧", "韩国剧", "日本剧", "海外剧", "泰剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "演唱会", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "有声动漫", "女频恋爱", "反转爽剧", "脑洞悬疑", "年代穿越", "古装仙侠", "现代都市" ] },
   { "key": "libhd", "name": "LIBHD | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/libhd.json" },
   { "key": "小宝影院", "name": "小宝 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/小宝影院.json" },
   { "key": "GimyTV", "name": "Gimy | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/gimyTV.json" },
   { "key": "kekeys", "name": "可可1 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/可可影视.json" }, 
-  { "key": "ddys", "name": "低端1 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/低端影视.json" }, 
+  { "key": "ddys", "name": "低端xbpq | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/低端影视.json" }, 
   { "key": "pbys", "name": "片吧 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/片吧影视.json" },   
-  { "key": "ppxdm", "name": "PPX | 动漫", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/ppxdm.json" },   
-  { "key": "jiohub", "name": "Jojo | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/jiohub.json" },  
-  { "key": "zjtu", "name": "追剧兔 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/追剧兔.json" },  
-{
-            "key": "JAVSB",
-            "name": "🔞JAVSB",
-            "type": 3,
-            "api": "csp_XBPQ",
-	    "jar":"./jar/XBPQ.jar",
-            "style": { "type": "rect", "ratio": 1.78 },
-            "ext": {
-                "主页url": "https://jav.sb/",
-                "直接播放": "1",
-                "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
-                "图片": "data-src=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "链接": "href=\"&&\"",
-                "分类url": "https://jav.sb/javtype/{cateId}-{catePg}.html",
-                "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
-            }
-        },  
-{
-            "key": "RJAV",
-            "name": "🔞RJAV",
-            "type": 3,
-            "api": "csp_XBPQ",
-	    "jar":"./jar/XBPQ.jar",
-            "ext": {
-                "主页url": "https://rjav.tv/zh/",
-                "直接播放": "1",
-                "数组": "class=\"mb15\"&&</li>",
-                "图片": "src=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "分类url": "https://rjav.tv/zh/videotype/{cateId}-{catePg}/",
-                "分类": "FC2-PPV$FC2-PPV#日本無碼$JAV_Uncensored#馬賽克破壞$Mosaic_Removed#國產$Asian_Amateur#日本有碼$JAV_Censored#MGS動画$MGS#中文字幕$JAV+CHN.SUBs#動畫$Anime#歐美成人$Western_Porn#Korean BJ Dance$Korean_BJ_Dance#寫真$Adult_IDOL"
-            }
-        },	  
-{
-            "key": "18insta",
-            "name": "💗┃💋18INSTA┃💠",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            },
-            "ext": {
-                "数组二次截取": "models\":[&&]",
-                "数组": "{&&}",
-                "图片":"previewUrlThumbBig:\"https+://static-cdn.strpst.com/+https://static-cdn.strpst.com/&&\"",
-                "标题": "username\":\"&&\"",
-                "副标题": "id\":\"&&\"",
-                "链接": "hlsPlaylist\":\"&&_+_480p.m3u8",
-                "分类url": "https://zh.18insta.com/api/front/models?primaryTag=girls&sortBy=viewersRating&userRole=guest&groupId=6&limit=20&filterGroupTags=[[\"{cateId}\"]]&offset=0;;m",
-                "直接播放": 1,
-                "播放请求头":"手机",
-                "分类": "中国$tagLanguageChinese#乌克兰$tagLanguageUkrainian#日本$tagLanguageJapanese#韩国$tagLanguageKorean#越南$tagLanguageVietnamese#哥伦比亚$tagLanguageColombian"
-            }
-        },
-	  {
-            "key": "策驰影院",
-            "name": "💕策驰影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "主页url": "https://www.cecidy.cc/",
-                "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36#Referer$https://www.cecidy.cc/#Cookie$erdangjiade=erdangjiade#Accept$text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9#Accept-Language$zh-CN,zh;q=0.9,en;q=0.8#Connection$keep-alive",                
+  { "key": "ppxdm", "name": "PPX | 动漫", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/ppxdm.json" }, 
+  { "key": "ppxys", "name": "PPX | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/ppxys.json" },  
+  { "key": "唐人街", "name": "唐人街 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/唐人街.json" },  
+  { "key": "网飞", "name": "网飞 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/网飞.json" },    
+  //{ "key": "jiohub", "name": "Jojo | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/jiohub.json" },  
+  //{ "key": "zjtu", "name": "追剧兔 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/追剧兔.json" },  
+  { "key": "av01", "name": "AV01 | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/av01.json" },   
+  { "key": "javsb", "name": "JavSB | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/javsb.json" },  
+  { "key": "rjav", "name": "RJav | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/rjav.json" },
+  { "key": "18instra", "name": "18Instra | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/18instra,json" }, 
+  { "key": "吃瓜大队py", "name": "🔞吃瓜大队", "api": "./jar/吃瓜大队.py", "filterable": 1, "quickSearch": 1, "searchable": 1, "style": { "type": "rect", "ratio": 1.485 }, "type": 3 },
+  { "key": "soporn", "name": "🔞soporn(T)", "type": 3, "api": "csp_XBPQ", "jar": "./jar/XBPQ.jar", "ext": { "直接播放": "1", "嗅探词": "index.m3u8", "简介": "name=\"description\" content=\"&&\"/>", "分类url": "https://www.anticasf.com/cn/tag/{cateId}?page={catePg}" } },
+  { "key": "csp_XBPQ_JAV目錄大全", "name": "🔞JAV｜大全", "type": 3, "jar": "./jar/XBPQ.jar", "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "./lib/javmenu.json"},
+  { "key": "19madou", "name": "🔞19麻豆", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "style": { "type": "rect", "ratio": 1.78 },"jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/19madou.json" },
+  { "key": "爱豆传媒", "name": "🔞爱豆传媒", "type": 3,  "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/rourou.json" },
+  { "key": "224cuo", "name": "224Cuo | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/224cuo.json" },
+  { "key": "kanav", "name": "看AV | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/kanav.json" },
 
-                "数组": "class=\"myui-vodlist__thumb lazyload\"&&</div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "简介": "class=\"video-des\"&&</div>",
-                "线路标题": "data-toggle=\"tab\">&&</a>",
-                "分类url": "https://www.cecidy.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
-                "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$60#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#悬疑片$22#犯罪片$23#惊悚片$24#纪录片$25#国产剧$13#港台剧$14"
-            }
-        },
-{
-            "key": "唐人街",
-            "name": "💕唐人街",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "ext": {
-                "主页url": "https://www.tangrenjie.one/",
-                "数组": "class=\"vodlist_thumb lazyload\"&&</div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "简介": "class=\"content_desc context clearfix\"&&</span>",
-                "线路数组": "class=\"play_source_tab list_scroll clearfix\"&&</div>",
-                "线路标题": ">&nbsp;<b>&&</b>",
-                "分类url": "https://www.tangrenjie.one/index.php/vod/show/area/{area}/id/{cateId}/letter/{letter}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-            }
-        },
 
-    {
-            "key": "222cuo",
-            "name": "🔞222cuo",
-            "type": 3,
-            "api": "csp_XBPQ",
-  "jar": "./jar/XBPQ.jar", 
-            "ext": {
-                "主页url": "http://224cuo.com/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "分类url": "http://224cuo.com/{cateId}/list_{catePg}.html;;RC",
-                "分类": "亚洲AV$yazhouav#自拍偷拍$zipaitoupai#欧美AV$oumeiav#3D动画$3ddonghua#熟女人妻$shunvrenqi#丝袜制服$siwazhifu#主播直播$zhubozhibo#SM另类$smlinglei#亚洲性爱$yazhouxingai#偷拍自拍$toupaizipai#成人卡通$chengrenkatong#欧美性爱$oumeixingai#制服丝袜$zhifusiwa#经典三级$sanjijingdian#乱伦熟女$luanlunshunv#另类变态$lingleibiantai"
-            }
-        },
-    {
-            "key": "KanAV",
-            "name": "🔞KanAV",
-            "type": 3,
-            "api": "csp_XBPQ",
-           "jar": "./jar/XBPQ.jar", 
-            "ext": {
-                "主页url": "https://kanav.info/",
-                "直接播放": "1",
-                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "数组": "class=\"video-item\"&&</div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "链接": "href=\"&&\"",
-                "分类url": "https://kanav.info/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-                "分类": "中文字幕$1#日韩有码$2#日韩无码$3#国产AV$4#流出自拍$22#自拍泄密$30#探花约炮$31#主播录制$32#动漫番剧$20#里番$25#泡面番$26#Motion Anime$27#3D动画$28#同人作品$29"
-            }
-        },
 
-{
-  "key": "py_dm84",
-  "name": "DM84",
-  "type": 3,
-  "api": "./lib/py_dm84.py",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1
-},
+
+
 
   //{ "key": "热播库", "name": "热播 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/rebozy.json" },  
   //{ "key": "华为吧", "name": "华为 | 影视", "type": 1, "api": "https://cjhwba.com/api.php/provide/vod/?ac=list", "searchable": 1, "changeable": 1, "categories": [ "短剧", "冒险片", "剧情片", "动作片", "动画电影", "喜剧片", "奇幻片", "恐怖片", "悬疑片", "惊悚片", "歌舞片", "灾难片", "爱情片", "科幻片", "犯罪片", "经典片", "网络电影", "战争片", "伦理片", "欧美剧", "日剧", "韩剧", "台剧", "泰剧", "国产剧", "港剧", "新马剧", "其他剧", "欧美动漫", "日韩动漫", "国产动漫", "新马泰动漫", "港台动漫", "其他动漫", "国产综艺", "日韩综艺", "欧美综艺", "新马泰综艺", "港台综艺", "其他综艺", "纪录片" ]},
@@ -193,7 +64,7 @@
   { "key": "新感觉", "name":"新感觉TV", "type":1, "api":"http://27.54.236.194:62/api.php/provide/vod/", "playUrl":"json:http://110.42.66.7:1122/XGJ/xgjjson.php?url=", "timeout":15, "searchable":1, "quickSearch":1, "filterable":1 },
   { "key": "csp_LiteApple", "name": "苹果 ┃ 影视", "type":3, "playerType": "2", "api": "csp_LiteApple", "searchable":1,"quickSearch":1, "filterable":1, "jar": "./jar/PandaQ240625.jar"}, 
   { "key": "比特", "name": " 比特 ┃ 影视", "type": 3, "api":"csp_Bttwo", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/PandaQ240625.jar"},
-  { "key": "dr_低端", "name": "低端 | 影视", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1, "ext": "./lib/ddys.js" },
+  { "key": "dr_低端", "name": "低端dr | 影视", "type": 3, "api": "./lib/drpy2.min.js", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1, "ext": "./lib/ddys.js" },
   { "key": "豆瓣", "name": "豆瓣 | 推荐", "type": 3, "api": "csp_Douban", "searchable": 0, "changeable": 1, "ext": "./json/douban.json" },
   { "key": "Ikanbot", "name": "爱看 | 影视", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$noproxy"},
   { "key": "可可", "name": "可可 | 影视", "type":3, "api":"csp_Kekys", "timeout":15, "playerType":2, "searchable":1, "quickSearch":1,"changeable":1, "jar": "./jar/fan.txt"},
