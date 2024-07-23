@@ -18,7 +18,7 @@
   { "key": "zuidazy", "name": "最大 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/最大资源.json" },  
   { "key": "360zy", "name": "360 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/360资源.json" },  
   { "key": "okzy", "name": "OK | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/ok资源.json" },   
-  { "key": "ffzy", "name": "非凡 | 影视", "type": 1, "api": "http://cj.ffzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1" },  
+  { "key": "ffzy", "name": "非凡 | 影视", "type": 1, "api": "http://cj.ffzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },  
   { "key": "nu", "name": "Nuu | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/nuu.json" },	
   { "key": "py_emby", "name": "EMBY", "type": 3, "api": "./jar/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "https://cherrytv.one:443", "username": "ghost", "password": "ghost", "thread": 0 }, "changeable": 1 },
   { "key": "py_emby1", "name": "🍏EMBY公益服•py", "type": 3, "api": "./jar/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "http://kr.emby.cyou:8096", "username": "feverss", "password": "", "thread": 0 }, "changeable": 0 },
