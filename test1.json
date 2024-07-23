@@ -44,7 +44,8 @@
             "name": "🔞JAVSB",
             "type": 3,
             "api": "csp_XBPQ",
-			"jar":"./jar/XBPQ.jar",
+	    "jar":"./jar/XBPQ.jar",
+            "style": { "type": "rect", "ratio": 1.78 },
             "ext": {
                 "主页url": "https://jav.sb/",
                 "直接播放": "1",
