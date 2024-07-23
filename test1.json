@@ -40,7 +40,26 @@
   { "key": "jiohub", "name": "Jojo | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/jiohub.json" },  
   { "key": "zjtu", "name": "追剧兔 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/追剧兔.json" },  
 {"key": "采集之王","name": "采集之王","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "./lib/采集之王.js?type=url&params=./lib/采集静态.json"},
-    {
+   {
+"key":"18insta",
+"name":"💗┃💋18insta┃💠",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"./jar/XBPQ.jar",
+"ext":{
+"数组二次截取":"models\":[&&]",
+"数组":"{&&}",
+"图片":"previewUrlThumbBig:\"https+://static-cdn.strpst.com/+https://static-cdn.strpst.com/&&\"",
+"标题":"username\":\"&&\"",
+"副标题":"id\":\"&&\"",
+"链接":"hlsPlaylist\":\"&&_+_480p.m3u8",
+"分类url":"https://zh.18insta.com/api/front/models?primaryTag=girls&sortBy=viewersRating&userRole=guest&groupId=6&limit=20&filterGroupTags=[[\"tagLanguageChinese\"]]&{cateId};;m",
+"直接播放":1,
+"播放请求头":"手机",
+"分类":"中文$offset=0#中文2$offset=60#最新$autoTagNew"
+}
+}, 
+	  {
             "key": "策驰影院",
             "name": "💕策驰影院",
             "type": 3,
