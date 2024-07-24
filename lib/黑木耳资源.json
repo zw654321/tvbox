@@ -5,7 +5,6 @@
   
   "分类": "全部&电影&电视剧&综艺&动漫&短剧",
   "分类值": "0&1&2&4&3&27",
-  //"分类url": "https://heimuer.tv/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
   "分类url": "https://heimuer.tv/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20&year={year}&area={area}",
   
   "数组二次截取": "list\":[&&]",
