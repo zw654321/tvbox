@@ -50,7 +50,16 @@
   { "key": "爱豆传媒", "name": "🔞爱豆传媒", "type": 3,  "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/rourou.json" },
   { "key": "224cuo", "name": "224Cuo | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/224cuo.json" },
   { "key": "kanav", "name": "看AV | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/kanav.json" },
-
+{
+            "key": "T4-hme",
+            "name": "黑木耳(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/hme",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
 
 
 
