@@ -6,7 +6,7 @@
   "分类": "全部&电影&电视剧&综艺&动漫&短剧",
   "分类值": "0&1&2&4&3&27",
   //"分类url": "https://heimuer.tv/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
-  "分类url": "https://heimuer.tv/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20",
+  "分类url": "https://heimuer.tv/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20&year={year}&area={area}",
   
   "数组二次截取": "list\":[&&]",
   "数组": "{&&}",
@@ -50,7 +50,7 @@
         "name": "类型",
         "value": [
 			{"n": "全部", "v": ""},
-		    {"n": "剧情片", "v": "6"},
+		        {"n": "剧情片", "v": "6"},
 			{"n": "动作片", "v": "7"},
 			{"n": "冒险片", "v": "8"},
 			{"n": "同性片", "v": "9"},
@@ -70,7 +70,16 @@
 			{"n": "网络电影", "v": "36"},
 			{"n": "其它片", "v": "37"}
                 ]
-                }
+                },
+                {
+        "key": "year",
+        "name": "年份",
+        "value": [
+			{"n": "2024", "v": "2024"},
+		        {"n": "2023", "v": "2023"}
+	]
+		}
+
 			],
 	   "2": [
                 {
