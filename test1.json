@@ -4,7 +4,6 @@
   "logo": "https://fai-mang.net/wp-content/uploads/2024/05/logoico.png",
   "wallpaper": "http://fai-mang.net/image.php",
   "sites": [
-  { "key":"lf_js_search","name":"搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js","ext":"+18"},  
   { "key": "黑木耳", "name": "神速 | 影视", "type": 1, "api": "https://json.heimuer.xyz/api.php/provide/vod/", "searchable": 1, "changeable": 1, "categories": ["国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片","日本动漫","国产动漫","欧美动漫","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺"]},
   { "key": "php_hmezy", "name": "黑木耳克隆", "type": 4, "api": "https://demobe.serv00.net/heimuer.php", "searchable": 1, "quickSearch":0, "filterable":0 },
   { "key": "短剧", "name": "短剧 | 影视", "type": 1, "api": "https://json.heimuer.xyz/api.php/provide/vod/", "searchable": 1, "changeable": 1, "categories": ["虐恋短剧","古装短剧","逆袭短剧","悬疑短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","萌宝短剧","其它短剧"]},
@@ -50,16 +49,8 @@
   { "key": "爱豆传媒", "name": "🔞爱豆传媒", "type": 3,  "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/rourou.json" },
   { "key": "224cuo", "name": "224Cuo | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/224cuo.json" },
   { "key": "kanav", "name": "看AV | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/kanav.json" },
-{
-            "key": "T4-hme",
-            "name": "黑木耳(T4)",
-            "type": 4,
-            "api": "https://tang.hz.cz/power/hme",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
+  { "key": "mmbx", "name": "美美百秀 | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/美美百秀.json" },
+
 
 
 
