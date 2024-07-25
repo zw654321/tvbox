@@ -28,7 +28,7 @@
 		"简介":"style=\"display:none;\">&&</span>",
 
 		"播放数组":"class=\"stui-content__playlist clearfix&&</ul>",
-		"播放列表":"<li&&</li>",
+		"播放列表":"<li&&</li>[排序:无尽云播>闪电云播]",
 		"播放标题":"html\">&&</a>",
 		"播放链接":"href=\"&&\"",
 
