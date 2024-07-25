@@ -19,7 +19,7 @@
   { "key": "zuidazy", "name": "最大 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/最大资源.json" },  
   { "key": "360zy", "name": "360 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/360资源.json" },  
   { "key": "okzy", "name": "OK | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/ok资源.json" },   
-  { "key": "ffzy", "name": "非凡 | 影视", "type": 1, "api": "http://cj.ffzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },  
+  { "key": "ffzy", "name": "非凡 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/非凡资源.json" },    
   { "key": "nu", "name": "Nuu | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "ext": "./lib/nuu.json" },	
   { "key": "py_emby", "name": "EMBY", "type": 3, "api": "./jar/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "https://cherrytv.one:443", "username": "ghost", "password": "ghost", "thread": 0 }, "changeable": 1 },
   { "key": "py_emby1", "name": "🍏EMBY公益服•py", "type": 3, "api": "./jar/py_emby.py", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "server": "http://kr.emby.cyou:8096", "username": "feverss", "password": "", "thread": 0 }, "changeable": 0 },
@@ -53,7 +53,32 @@
   { "key": "224cuo", "name": "224Cuo | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/224cuo.json" },
   { "key": "kanav", "name": "看AV | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/kanav.json" },
   { "key": "mmbx", "name": "美美百秀 | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/美美百秀.json" },
-
+{
+            "key": "卫总影院",
+            "name": "卫总正能量🎬",
+            "type": 3,
+            "api": "csp_XBPQ",
+  "jar": "https://pan.jl8.top/down.php/9acc0c3a33900d7a7210f464d1555630.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "数组": "myui-vodlist__thumb lazyload&&</a",
+                "副标题": "pic-text text-right\">&&</span",
+                "简介": "剧情介绍</h3>&&<div class=\"myui-panel myui-panel-bg clearfix",
+                "线路数组": "<li><a href=\"\\#playlist&&</li",
+                "线路标题": ">&&</a",
+                "播放数组": "<ul class=\"myui-content__list sort-list&&</ul",
+                "跳转播放链接": "var now=\"&&\"",
+                "搜索数组": "lazyload\"&&</a",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "搜索url": "https://wzznl.buzz/search.php?page={pg}&searchword={wd}&searchtype=",
+                "分类url": "https://wzznl.buzz/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#纪录片$11#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
+            }
+        },
 {
             "key": "sae8视频",
             "name": "sae8视频",
