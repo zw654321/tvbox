@@ -33,7 +33,6 @@
   "播放标题": "copy_text\">&&<span class=\"hidden-xs",
   "播放链接": "https://m.ivdy.com/vod/play/+ href=\"&&\"[替换:/index.php/vod/play/id/>>空#sid/>>空#nid/>>空#.html>>空]",
   "嗅探词": ".m3u8",
-  "调试": "1",
   "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
 
   "筛选": {
