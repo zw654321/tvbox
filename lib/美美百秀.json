@@ -2,7 +2,7 @@
 		"站名": "美美百秀",
 		"主页url":"https://www.mmbx13.cc/",
 
-		"分类url": "https://www.mmbx13.cc/{cateId}/index.html",
+		"分类url": "https://www.mmbx13.cc/{cateId}/index{catePg}.html[https://www.mmbx13.cc/{cateId}/index.html]",
 		"分类": "推女郎$tg#爱丝AISS$as#街拍美女$jp#韩国女主播$zb#动感小站$dg#PANS写真$pans#Showgirl$sg#微拍福利$wp#Pantyhose$ny#Ru1mm$ru#Siyamm$sy#Rosimm$rs#大秀场$dxc#RQ-STAR$rq#4K-STAR$4k#3AGirl$3a#Beautyleg$bl#S-MV$mv#节目$show",
 		
 		"数组": "<span class=\"img-box\">&&</span>",
