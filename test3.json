@@ -36,7 +36,7 @@
 
  
   { "key": "NanGua", "name": "南瓜 | 影视", "type":3, "api":"csp_NanGua", "searchable":1, "changeable":1},
-  { "key": "Wexjiohub", "name": "啾啾 | 影视", "type": 3, "api": "csp_jiohub", "searchable": 1, "changeable": 1 },  
+  { "key": "Wexjiohub", "name": "啾啾 | 影视", "type": 3, "api": "csp_Wexjiohub", "searchable": 1, "changeable": 1, "jar": "./jar/wex.txt" },  
   { "key": "Ikanbot", "name": "爱看 | 影视", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com"},  
   
   { "key": "Iktv","name": "KTV | 唱歌","type": 3,"api": "csp_WexIktv","searchable": 1,"changeable": 0,"jar": "./jar/wex.txt"},
