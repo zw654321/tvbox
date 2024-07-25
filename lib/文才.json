@@ -1,11 +1,14 @@
 {
-  "分类": "电影&动漫&剧集&综艺", 
-  "分类值": "30&75&14&69", 
-  "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg};;rc", 
-  "首页":"国产剧$21",
+  "站名": "文才影视",
+  "主页url": "https://zeqaht.com",
+  
+  "分类": "全部&电影&剧集&动漫&综艺", 
+  "分类值": "0&1&2&3&4", 
+  "分类url": "https://zeqaht.com/index.php/ajax/data?mid=1&tid={cateId}&page={catePg}&limit=20",
+
   "数组二次截取": "list\":[&&]",
   "数组": "{&&}[不包含:]",
-  "图片": "vod_pic\":\"&&\"",
+  "图片": "vod_pic\":\"&&\"[替换:/upload>>https://ywxohs.com/upload]",
   "标题": "vod_name\":\"&&\"",
   "副标题": "type_name\":\"&&\"+vod_remarks\":\"&&\"",
   "链接": "https://api.zeqaht.com/index.php/vod/detail/id/+vod_id\":&&,+.html",
@@ -30,16 +33,19 @@
   "播放标题": "copy_text\">&&<span class=\"hidden-xs",
   "播放链接": "https://m.ivdy.com/vod/play/+ href=\"&&\"[替换:/index.php/vod/play/id/>>空#sid/>>空#nid/>>空#.html>>空]",
   "嗅探词": ".m3u8",
-  "图片代理":1,
-  "页面代理":"",
+  "调试": "1",
   "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
 
   "筛选": {
-    "30": [
+    "1": [
       {
         "key": "cateId",
         "name": "类型",
         "value": [
+          {
+            "n": "全部",
+            "v": ""
+          },		
           {
             "n": "喜剧片",
             "v": "22"
@@ -115,11 +121,15 @@
         ]
       }
     ],
-    "14": [
+    "2": [
       {
         "key": "cateId",
         "name": "类型",
         "value": [
+          {
+            "n": "全部",
+            "v": ""
+          },	
           {
             "n": "国产剧",
             "v": "14"
@@ -143,11 +153,15 @@
         ]
       }
     ],
-    "69": [
+    "3": [
       {
         "key": "cateId",
         "name": "类型",
         "value": [
+          {
+            "n": "全部",
+            "v": ""
+          },			
           {
             "n": "国产综艺",
             "v": "69"
@@ -171,11 +185,15 @@
         ]
       }
     ],
-    "75": [
+    "4": [
       {
         "key": "cateId",
         "name": "类型",
         "value": [
+          {
+            "n": "全部",
+            "v": ""
+          },			
           {
             "n": "动漫",
             "v": "4"
