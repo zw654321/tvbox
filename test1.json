@@ -47,11 +47,35 @@
   { "key": "dfm", "name": "电影线上看", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/电影线上看.json" },    
   { "key": "ole", "name": "欧乐 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/欧乐.json" },    
   { "key": "bzhan", "name": "B站 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/B站影视.json" },    
-  { "key": "zizi", "name": "子子 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/子子影视.json" },   
+  { "key": "zizi", "name": "子子 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/子子影视.json" },  
+  { "key": "纽约影视", "name": "纽约 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/纽约影视.json" },   
   { "key": "听FM", "name": "听FM | 电台", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/听FM.json" },   
   { "key": "MTV", "name": "🎧┃明星┃MV", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "ext": "./lib/MTV.json" , "jar": "./jar/PandaQ240724.jar"}, 
   { "key": "达达龟", "name": "🐢┃达达龟┃影视", "type": 3, "api": "csp_Dadag", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/PandaQ240724.jar" },  
-  
+ 纽约影视 
+  {
+            "key": "字母圈",
+            "name": "🔞字母圈",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://zimufl.cc/",
+                "直接播放": "1",
+                "数组": "vodlist_thumb lazyload\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+				"调试":"1",
+				"嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com",
+                "分类url": "https://zimufl.cc/vodshow/id/{cateId}/lpage/{catePg}.html",
+                "分类": "字母圈$1#国产区$2#AV$3#动漫$4#传媒视频$5#伦理片$36"
+            }
+        },
+ 
 	  {
             "key": "movieffm",
             "name": "❤️‍🔥〔movieffm丨XP™〕",
@@ -86,6 +110,27 @@
   { "key": "kanav", "name": "看AV | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "timeout": 60, "ext": "./lib/kanav.json" },
   { "key": "mmbx", "name": "美美百秀 | 18", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1,"style": { "type": "rect", "ratio": 1.78 }, "timeout": 60, "ext": "./lib/美美百秀.json" },
 
+	  {"key": "ThisAV",
+            "name": "🔞ThisAV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://thisav.com/dm7/cn",
+                "直接播放": "1",
+                "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
+                "图片": "class=\"lozad w-full\" data-src=\"&&\"",
+                "简介": "<title>&&</title>",
+                "标题": "alt=\"&&\"",
+                "副标题": "absolute bottom-1 right-1 rounded-lg px-2 py-1 text-xs text-nord5 bg-gray-800 bg-opacity-75\">&&</span>",
+                "链接": "href=\"&&\"",
+                "分类url": "https://thisav.com/{cateId}?page={catePg}",
+                "分类": "最近更新$dm509/cn/new#新作上市$dm504/cn/release#今日热门$dm242/cn/today-hot#本周热门$dm167/cn/weekly-hot#本月热门$dm206/cn/monthly-hot#中文字幕$dm265/cn/chinese-subtitle#无码流出$dm558/cn/uncensored-leak#SIRO$dm23/cn/siro#LUXU$dm23/cn/siro#GANA$dm23/cn/siro#PRESTIGE PREMIUM$dm14/cn/maan#S-CUTE$dm23/cn/scute#ARA$dm19/cn/ara#FC2$dm94/cn/fc2#HEYZO$dm621/cn/heyzo#东京热$dm29/cn/tokyohot#一本道$dm39925/cn/1pondo#Caribbeancom$dm75695/cn/caribbeancom#Caribbeancompr$dm1200/cn/caribbeancompr#10musume$dm39286/cn/10musume#pacopacomama$dm663/cn/pacopacomama#Gachinco$dm135/cn/gachinco#XXX-AV$dm25/cn/xxxav#人妻斩$dm24/cn/marriedslash#顽皮 4610$dm19/cn/naughty4610#顽皮 0930$dm22/cn/naughty0930#麻豆传媒$dm31/cn/madou#TWAV$dm17/cn/twav#Furuke$dm14/cn/furuke"
+            }
+        },
 
 
   //{ "key": "热播库", "name": "热播 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/rebozy.json" },  
