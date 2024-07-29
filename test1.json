@@ -44,6 +44,7 @@
   { "key": "kuya", "name": " 酷亚 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/酷亚影院.json" },    
   { "key": "xkqt", "name": " 星空奇谈", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/星空奇谈.json" },
   { "key": "wvod", "name": "蛙 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/蛙影视.json" },
+  { "key": "欧乐影院", "name": "欧乐影院|在线播", "type": 3, "api": "csp_Olevod", "quickSearch": 1, "changeable": 1, "filterable": 1, "timeout": 60 },	  
 {
             "key": "B站影视",
             "name": "💕B站影视",
