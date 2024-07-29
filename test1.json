@@ -45,6 +45,25 @@
   { "key": "xkqt", "name": " 星空奇谈", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/星空奇谈.json" },
   { "key": "wvod", "name": "蛙 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/XBPQ.jar", "timeout": 60, "ext": "./lib/蛙影视.json" },
 {
+            "key": "B站影视",
+            "name": "💕B站影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+	    "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "主页url": "https://bzhanyy.com/",
+                "数组": "movie-list-item\"&&</a>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "movie-rating cor4\"&&</div>",
+                "链接": "href=\"&&\"",
+                "简介": "margin: 15px 15px 0 15px;\">&&<div",
+                "播放数组": "content_playlist flex wrap\"&&</ul>",
+                "分类url": "https://bzhanyy.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+            }
+        },
+	  {
             "key": "movieffm",
             "name": "❤️‍🔥〔movieffm丨XP™〕",
             "type": 3,
