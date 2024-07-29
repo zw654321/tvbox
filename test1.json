@@ -54,7 +54,7 @@
                 "主页url": "https://bzhanyy.com/",
                 "数组": "movie-list-item\"&&</a>",
                 "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
+                "标题": "title=\"&&\">&&</div>",
                 "副标题": "movie-rating cor4\"&&</div>",
                 "链接": "href=\"&&\"",
                 "简介": "margin: 15px 15px 0 15px;\">&&<div",
