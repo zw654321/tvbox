@@ -53,6 +53,22 @@
   { "key": "MTV", "name": "🎧┃明星┃MV", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "ext": "./lib/MTV.json" , "jar": "./jar/PandaQ240724.jar"}, 
   { "key": "达达龟", "name": "🐢┃达达龟┃影视", "type": 3, "api": "csp_Dadag", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/PandaQ240724.jar" },  
 {
+            "key": "黑夜影视",
+            "name": "💕黑夜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://www.longyedichan.com/",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "副标题": "class=\"role\">&&</div>",
+                "链接": "href=\"&&\"",
+                "简介": "module-item-style video-text\"&&</div>",
+                "分类url": "https://www.longyedichan.com/vodshow/{cateId}-{area}-{class}--{year}-------{catePg}.html",
+                "分类": "正在热映$50#电影$1#电视剧$2#动漫$4#综艺$3#短视频$9#精选$52#今天高清视频$5#在线观看免费播放$8#漂亮的女友$7#鲁丝午夜精品$6"
+            }
+        },
+	  {
             "key": "Euvod影视",
             "name": "💕Euvod影视",
             "type": 3,
