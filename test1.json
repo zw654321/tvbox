@@ -63,7 +63,7 @@
             "ext": {
                 "首页": "电视剧$30",
                 "线路数组": "<div class=\"module-tab-item&&</div>",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>💯更新]",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>-更新至]",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
                 "分类url": "https://4k4k.live/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"
             }
