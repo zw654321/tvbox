@@ -48,47 +48,34 @@
   { "key": "ole", "name": "欧乐 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/欧乐.json" },    
   { "key": "bzhan", "name": "B站 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/B站影视.json" },    
   { "key": "zizi", "name": "子子 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/子子影视.json" },  
-  { "key": "纽约影视", "name": "纽约 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/纽约影视.json" },  
+  { "key": "纽约影视", "name": "纽约 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/纽约影视.json" },
   { "key": "Euvod影视", "name": "Euvod | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/Euvod影视.json" }, 
-  { "key": "华乐影视", "name": "华乐 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/华乐影视.json" }, 
-  { "key": "drpy_js_4k剧院", "name":"4K | 影视", "type":3,"api":"./lib/drpy2.min.js","ext":"./lib/4k剧院.js"},
+  { "key": "华乐影视", "name": "华乐 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/华乐影视.json" },    
+  { "key": "139影视", "name": "139 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/139影视.json" }, 
+  { "key": "4k影视", "name": "4K | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/4k影视.json" },  
   { "key": "听FM", "name": "听FM | 电台", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/听FM.json" },   
   { "key": "MTV", "name": "🎧┃明星┃MV", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "ext": "./lib/MTV.json" , "jar": "./jar/PandaQ240724.jar"}, 
   { "key": "达达龟", "name": "🐢┃达达龟┃影视", "type": 3, "api": "csp_Dadag", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/PandaQ240724.jar" },  
-{
-            "key": "4K4K",
-            "name": "💕4K4K",
+ {
+            "key": "时代影视",
+            "name": "💕时代影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "分类url": "https://4k4k.live/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
+                "主页url": "https://www.56music.top/",
+                "数组": "hl-item-thumb hl-lazy\"&&</a>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "hl-lc-1 remarks\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "简介：&&</li>",
+                "分类url": "https://www.56music.top/vodshow/{cateId}--{area}--{lang}---{by}---{year}-.html?page={catePg}",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
             }
         },
-	  {
-            "key": "4k4k",
-            "name": "❤️‍🔥〔4k4k丨XP™〕",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "首页": "电视剧$30",
-                "线路数组": "<div class=\"module-tab-item&&</div>",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>-更新至]",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "分类url": "https://4k4k.live/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html"
-            }
-        },
-	  {
-            "key": "采集集合",
-            "name": "采集集合",
-            "type": 1,
-            "api": "http://zhangqun66.serv00.net/cjjh.php",
-            "searchable": 1,
-            "changeable": 1
-        },
-  {
-            "key": "字母圈",
-            "name": "🔞字母圈",
+ {
+            "key": "porn87",
+            "name": "🔞pron87",
             "type": 3,
             "api": "csp_XBPQ",
             "style": {
@@ -96,18 +83,19 @@
                 "ratio": 1.5
             },
             "ext": {
-                "主页url": "https://zimufl.cc/",
+                "主页url": "https://porn87.com/",
                 "直接播放": "1",
-                "数组": "vodlist_thumb lazyload\"&&</div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
+                "数组": "class=\"column column-block\"&&</a>",
+                "图片": "src=\"&&\"",
+                "标题": "margin-top:4px;\">&&</span>",
+                "副标题": "<p>&&</p>",
                 "链接": "href=\"&&\"",
-				"调试":"1",
-				"嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com",
-                "分类url": "https://zimufl.cc/vodshow/id/{cateId}/lpage/{catePg}.html",
-                "分类": "字母圈$1#国产区$2#AV$3#动漫$4#传媒视频$5#伦理片$36"
+                "分类url": "https://porn87.com/main/tag?name={cateId}&days_range=0&lineup=create_time&page={catePg}",
+                "分类": "中港台&高清日本AV&少女/女友&教師&人妻&做愛&口交&肛交&足交&中出&多P&偷拍&白虎&名人明星&辦公室&制服&強迫&絲襪&妓女&素人&潮吹&自慰&巨乳&顏射/口爆&凌辱/虐待&新馬泰&日韓&歐美&女優無碼片流出&近親相姦&明星AI合成影片&無碼JAV&戶外室外&姐姐&美尻&美腿&乳交&蕩婦&學生妹&可愛",
+                "分类值": "中港台&高清日本AV&少女女友&教師&人妻&做愛&口交&肛交&足交&中出&多P&偷拍&白虎&名人明星&OL&制服&強迫&絲襪&妓女&素人&潮吹&自慰&巨乳&顏射口爆&凌辱&新馬泰&日韓&歐美&女優無碼片流出&近親相姦&明星AI合成影片&無碼JAV&戶外室外&姐姐&美尻&美腿&乳交&蕩婦&學生妹&可愛"
             }
         },
+
  
 	  {
             "key": "movieffm",
@@ -232,6 +220,7 @@
   { "name": "七新嗅探", "hosts": [ "api.52wyb.com" ], "regex": [ "m3u8?pt=m3u8" ] },
   { "name": "毛驢點擊", "hosts": [ "www.maolvys.com" ], "script": [ "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()" ] }
 		   ],
+
   "ads": [
     "static-mozai.4gtv.tv", "s3t3d2y8.afcdn.net"
   ]  
