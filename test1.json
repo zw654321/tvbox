@@ -1,6 +1,6 @@
 {
   "spider" : "./jar/pg316.jar",
-  "lives": [ { "name": "tvlive", "type": 0, "url": "http://xg.52sw.top:5000/mytvsuper.m3u", "playerType": 2 }, { "name": "嗅探", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0", "type": 0, "url": "http://xg.52sw.top:5000/mytvsuper.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png" } ],  
+  "lives": [ { "name": "tvlive", "type": 0, "url": "http://xg.52sw.top:5000/mytvsuper.m3u", "playerType": 2 }, { "name": "嗅探", "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0", "type": 0, "url": "http://xg.52sw.top:5000/mytvsuper.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png" }],  
   "logo": "https://fai-mang.net/wp-content/uploads/2024/05/logoico.png",
   "wallpaper": "http://fai-mang.net/image.php",
   "sites": [
@@ -36,7 +36,8 @@
   { "key": "ppxdm", "name": "PPX | 动漫", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/ppxdm.json" }, 
   { "key": "ppxys", "name": "PPX | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/ppxys.json" },  
   { "key": "唐人街", "name": "唐人街 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/唐人街.json" },  
-  { "key": "网飞", "name": "网飞 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/网飞.json" },    
+  { "key": "网飞", "name": "网飞 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/网飞.json" },  
+  { "key": "网飞啦", "name": "网飞啦 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/网飞啦.json" },   
   //{ "key": "jiohub", "name": "Jojo | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/jiohub.json" },  
   { "key": "zjtu", "name": "追剧兔 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/追剧兔.json" },
   { "key": "ivdy", "name": "文才 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/文才.json" },
@@ -53,26 +54,98 @@
   { "key": "华乐影视", "name": "华乐 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/华乐影视.json" },    
   { "key": "139影视", "name": "139 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/139影视.json" }, 
   { "key": "4k影视", "name": "4K | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/4k影视.json" },  
-  { "key": "听FM", "name": "听FM | 电台", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/听FM.json" },   
+  { "key": "cnflix", "name": "CNFLIX | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/cnflix.json" },  
+  { "key": "时代", "name": "时代 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/时代影视.json" },    
+  { "key": "永乐", "name": "永乐 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/永乐影视.json" },  
+  { "key": "黑猫", "name": "黑猫 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/黑猫影视.json" },   
   { "key": "MTV", "name": "🎧┃明星┃MV", "type": 3, "api": "csp_Bili", "searchable": 0, "quickSearch": 0, "ext": "./lib/MTV.json" , "jar": "./jar/PandaQ240724.jar"}, 
   { "key": "达达龟", "name": "🐢┃达达龟┃影视", "type": 3, "api": "csp_Dadag", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "./jar/PandaQ240724.jar" },  
- {
-            "key": "时代影视",
-            "name": "💕时代影视",
+  { "key": "听FM", "name": "听FM | 电台", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/听FM.json" },   
+  { "key": "4kav", "name": "4KAV | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "./lib/4kav.json" },   
+
+{
+            "key": "网飞猫",
+            "name": "💕网飞猫",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "主页url": "https://www.56music.top/",
-                "数组": "hl-item-thumb hl-lazy\"&&</a>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "副标题": "hl-lc-1 remarks\">&&</span>",
+                "主页url": "https://www.ncat3.com:51111/",
+                "数组": "module-item\">&&</span>",
+                "图片": "data-original=\"&&\"[替换:/vod1>>https://61.147.93.252:15002/vod1]",
+                "标题": "alt=\"&&\"",
+                "副标题": "<span>&&</span>",
                 "链接": "href=\"&&\"",
-                "简介": "简介：&&</li>",
-                "分类url": "https://www.56music.top/vodshow/{cateId}--{area}--{lang}---{by}---{year}-.html?page={catePg}",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+                "简介": "<p>&&</p>",
+                "线路标题": "source-item-label\">&&</span>",
+                "分类url": "https://www.ncat3.com:51111/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+                "分类": "电影$1#连续剧$2#动漫$3#综艺纪录$4#短剧$6"
             }
         },
+
+{
+            "key": "六月听书",
+            "name": "🎧六月听书",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "主页url": "http://m.6yueting.com/",
+                "数组":"class=\"album-item\">&&</li>",
+                "标题": "alt=\"&&\"",
+                "副标题": "class=\"weaken\">状态：&&</div",
+                "图片": "<img src=\"http://img.6yueting.com:20001/+http://img.6yueting.com:20001/&&\"",
+                "链接": "href=\"&&\"",
+                "图片代理":"1",
+                "播放数组": "class=\"list clearfix&&</ul>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+                "播放列表": "<li&&</li",
+                "简介": "detail-text\">&&</div>",
+                "分类url": "http://m.6yueting.com/ys/{cateId}/o1/{catePg}",
+                "分类": "玄幻奇幻$t1#修真武侠$t2#恐怖灵异$t3#古今言情$t4#都市言情$t28#穿越重生$t5#粤语古仔$t6#网游小说$t7#通俗文学$t11#历史纪实$t12#军事$t13#悬疑推理$t14#ebc5系列$t18#官场商战$t15#儿童读物$t16#广播剧$t17#外文原版$t22#评书大全$t8#相声小说$t9#百家讲坛$t10#健康养生$t20#教材$t21#期刊头条$t23#戏曲$t24#脱口秀$t27"
+            }
+        },
+
+{
+            "key": "蛋蛋魔法",
+            "name": "💕蛋蛋魔法",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://www.ddmf.net/",
+                "数组": "\"icon-play\"&&\"icon-play\"",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "module-item-note\">&&</div>",
+                "链接": "href=\"&&\"",
+                "简介": "<p>&&</p>",
+                "播放数组": "module-play-list\">&&</div>",
+                "线路数组": "\"module-tab-item tab-item\"&&</div>",
+                "线路标题": "<span>&&</span>",
+                "分类url": "https://www.ddmf.net/vodshow/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#福利视频$5#海外抖音$37"
+            }
+        },
+ {
+            "key": "五月天",
+            "name": "🔞五月天",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://www.qingse69.com/",
+                "数组": "preview-item\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://www.qingse69.com/{cateId}/index_{catePg}.html[https://www.qingse69.com/{cateId}];;z",
+                "分类": "网友自拍$guochan/zipai#偷拍视频$guochan/hidden#国产传媒$guochan/media#91大神$guochan/91ds#探花系列$guochan/thseries#网曝门事件$guochan/event#美女写真$guochan/model#网红主播$guochan/live#无码专区$dianying/codeless#一本道$dianying/ybd#加勒比$dianying/jlb#著名女优$dianying/code#欧美系列$dianying/ea#卡通动漫$dianying/anime#VR影院$dianying/vr#三级伦理$dianying/ethic"
+            }
+        },
+
  {
             "key": "porn87",
             "name": "🔞pron87",
