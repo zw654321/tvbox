@@ -1,5 +1,13 @@
 香港电台第一台,#genre#
-香港电台第一台,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
+香港电台第一台,https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
+香港电台第二台,#genre#
+香港电台第二台,https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8
+香港电台第三台,#genre#
+香港电台第三台,https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+香港电台第四台,#genre#
+香港电台第四台,https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
+香港电台第五台,#genre#
+香港电台第五台,https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8
 雷霆881,#genre#
 雷霆881,https://live.881903.com/edge-aac/881hd/chunks.m3u8
 叱咤903,#genre#
